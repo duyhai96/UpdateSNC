@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.4",
+    "version":  "1.1.5",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.1.4 - Ho tro tat ca quoc gia tren the gioi \u0026 tim kiem nhanh",
-    "releaseNotes":  "- Bo sung danh sach toan bo 250 quoc gia va vung lanh tho tren the gioi\n- Ho tro go phim tim kiem goi y tu dong (Suggest \u0026 Append) giup chon quoc gia cuc ky de dang va nhanh chong",
+    "title":  "Ban cap nhat v1.1.5 - Nang cap giao dien Menu hien dai \u0026 DataGridView muot ma",
+    "releaseNotes":  "- Thay the thanh tab menu cu bang he thong Menu phan doan hien dai, co mau sac ro rang, khong bi dao dong khi bam\n- Toi uu bang thiet bi muot ma chong giat lag (DoubleBuffered)\n- Lam dep nut thao tac Chay/Dung voi hieu ung pill button va to mau trang thai ro net",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
