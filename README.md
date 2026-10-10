@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.1.5
+- **Phien ban:** v1.1.6
 - **Ngay phat hanh:** 2026-10-10
-- **Tieu de:** Ban cap nhat v1.1.5 - Nang cap giao dien Menu hien dai & DataGridView muot ma
+- **Tieu de:** Ban cap nhat v1.1.6 - Sua triet de loi che khuat giao dien & nut bam gon dep
 
 ### Noi dung cap nhat:
-- Thay the thanh tab menu cu bang he thong Menu phan doan hien dai, co mau sac ro rang, khong bi dao dong khi bam
-- Toi uu bang thiet bi muot ma chong giat lag (DoubleBuffered)
-- Lam dep nut thao tac Chay/Dung voi hieu ung pill button va to mau trang thai ro net
+- Sua thu tu docking giup thanh menu khong con che khuat cac nut thao tac tren cung (Nap thiet bi, Start All, Tat nguon)
+- Chieu cao menu gon dep hon (62px) va khoa AutoScroll ngan bi nhay cuon
+- Sua nut ket qua khong con bi cat chu 'Resul' thanh 'Xem' ro rang, chong de chu
