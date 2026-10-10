@@ -2,12 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.0.8
+- **Phien ban:** v1.0.9
 - **Ngay phat hanh:** 2026-10-10
-- **Tieu de:** Ban cap nhat v1.0.8 - Chinh xac 100% nut Add Friends xanh o day man hinh
+- **Tieu de:** Ban cap nhat v1.0.9 - Kiem tra linh hoat man hinh Add Friends va Bitmoji avatar
 
 ### Noi dung cap nhat:
-- Bat chinh xac node 'Add X Friends' (Add 9 Friends...) o nua duoi man hinh (y > 1000)
-- Khong bi bam nham vao tieu de 'Add Friends' o dinh man hinh
-- Ho tro bat resource-id button_text va FrameLayout clickable o day man hinh
-- Toa do tam fallback chuan 94% chieu cao man hinh
+- Kiem tra chinh xac co man hinh Add Friends thi moi thuc hien ket ban/skip
+- Neu khong co Add Friends (vao thang Bitmoji mannequin / avatar): tu dong thoat ngay qua nut X / Back / Leave, khong bi cho doi vo ich
+- Xu ly nhanh cac man hinh Not Now / Upload Photo / Onboarding

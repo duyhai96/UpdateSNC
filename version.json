@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.0.8 - Chinh xac 100% nut Add Friends xanh o day man hinh",
-    "releaseNotes":  "- Bat chinh xac node \u0027Add X Friends\u0027 (Add 9 Friends...) o nua duoi man hinh (y \u003e 1000)\n- Khong bi bam nham vao tieu de \u0027Add Friends\u0027 o dinh man hinh\n- Ho tro bat resource-id button_text va FrameLayout clickable o day man hinh\n- Toa do tam fallback chuan 94% chieu cao man hinh",
+    "title":  "Ban cap nhat v1.0.9 - Kiem tra linh hoat man hinh Add Friends va Bitmoji avatar",
+    "releaseNotes":  "- Kiem tra chinh xac co man hinh Add Friends thi moi thuc hien ket ban/skip\n- Neu khong co Add Friends (vao thang Bitmoji mannequin / avatar): tu dong thoat ngay qua nut X / Back / Leave, khong bi cho doi vo ich\n- Xu ly nhanh cac man hinh Not Now / Upload Photo / Onboarding",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
