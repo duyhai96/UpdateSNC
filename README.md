@@ -2,13 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.0.1
+- **Phien ban:** v1.0.2
 - **Ngay phat hanh:** 2026-10-10
-- **Tieu de:** Ban cap nhat v1.0.1 - Fix Bahrain BH & Update Online
+- **Tieu de:** Ban cap nhat v1.0.2 - Nang cap bao mat & Tinh gon giao dien
 
 ### Noi dung cap nhat:
-- Sua loi mua SIM Bahrain (BH): Tu dong fallback sang virtual4 khi virtual34 het so
-- Chuan hoa ma quoc gia 5SIM (bh -> bahrain, ae -> uae, qa -> qatar)
-- Them danh sach ten nu A Rap chuan Trung Dong (ar_en_female)
-- Tich hop tinh nang Check for Update tu dong truc tuyen tu GitHub
-- Fix loi bat Wi-Fi sai lech do ScoreCard lich su
+- Nang cap bao mat: An toan bo thong tin may chu cap nhat tren giao dien
+- Tinh gon giao dien: Tich hop Check for Update truc tiep tren Menu Strip
+- Loai bo tab thong tin cap nhat de bao mat thong tin nguon
+- Toi uu co che tu dong cap nhat va khoi dong lai

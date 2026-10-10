@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.0.1 - Fix Bahrain BH \u0026 Update Online",
-    "releaseNotes":  "- Sua loi mua SIM Bahrain (BH): Tu dong fallback sang virtual4 khi virtual34 het so\n- Chuan hoa ma quoc gia 5SIM (bh -\u003e bahrain, ae -\u003e uae, qa -\u003e qatar)\n- Them danh sach ten nu A Rap chuan Trung Dong (ar_en_female)\n- Tich hop tinh nang Check for Update tu dong truc tuyen tu GitHub\n- Fix loi bat Wi-Fi sai lech do ScoreCard lich su",
+    "title":  "Ban cap nhat v1.0.2 - Nang cap bao mat \u0026 Tinh gon giao dien",
+    "releaseNotes":  "- Nang cap bao mat: An toan bo thong tin may chu cap nhat tren giao dien\n- Tinh gon giao dien: Tich hop Check for Update truc tiep tren Menu Strip\n- Loai bo tab thong tin cap nhat de bao mat thong tin nguon\n- Toi uu co che tu dong cap nhat va khoi dong lai",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
