@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.0.4 - Tuy chon Add Friend va nang cap on dinh",
-    "releaseNotes":  "- Them tuy chon cai dat Add Friend tren giao dien: 1. Skip add friend (Mac dinh) va 2. Add friend (Bam nut Add Friends xanh)\n- Tu dong nhan dien va bam nut Add xanh tren man hinh goi y ket ban\n- Tu dong luu va khoi phuc cau hinh Add Friend\n- Nang cap on dinh va bao mat",
+    "title":  "Ban cap nhat v1.0.5 - Fix giao dien Luu file va Link Google Sheet",
+    "releaseNotes":  "- Can chinh giao dien: Username va Add Friend nam gon gang tren 1 hang\n- Hien thi day du checkbox \u0027Luu file (.txt)\u0027 va link \u0027Day len Google Sheet\u0027\n- Toi uu layout dep mat, khong bi che khuat bat ky tinh nang nao\n- Nang cap on dinh va bao mat",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
