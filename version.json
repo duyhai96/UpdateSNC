@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.3",
+    "version":  "1.1.4",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.1.3 - Toi uu xu ly bo qua goi y sau dang ky",
-    "releaseNotes":  "- Dong bo cap nhat code toi uu bo qua goi y sau dang ky\n- Tang delay on dinh va xu ly bo qua cac popup khong can thiet",
+    "title":  "Ban cap nhat v1.1.4 - Ho tro tat ca quoc gia tren the gioi \u0026 tim kiem nhanh",
+    "releaseNotes":  "- Bo sung danh sach toan bo 250 quoc gia va vung lanh tho tren the gioi\n- Ho tro go phim tim kiem goi y tu dong (Suggest \u0026 Append) giup chon quoc gia cuc ky de dang va nhanh chong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
