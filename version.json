@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.0",
+    "version":  "1.1.1",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.1.0 - Bo menu chuot phai tren view man hinh thiet bi",
-    "releaseNotes":  "- Bo menu chuot phai tren view man hinh dien thoai (Phone Screen/DeviceView) de tranh bat tien khi thao tac va click nham\n- Giu nguyen menu chuot phai day du tren tung dong danh sach thiet bi (DataGridView)",
+    "title":  "Ban cap nhat v1.1.1 - Khac phuc triet de treo man hinh Camera/Lenses sau dang ky",
+    "releaseNotes":  "- Nhan dien ngay lap tuc khi vao Camera chinh hoac Lens carousel (Get Lens / For You), khong bi cho hay treo o buoc kiem tra\n- Phan biet chinh xac man hinh goi y ket ban Add Friends onboarding voi icon Add Friends tren thanh header Camera\n- Tu dong bam Avatar mo Profile va vao Settings muot ma ngay khi o Camera",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
