@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.0.2 - Nang cap bao mat \u0026 Tinh gon giao dien",
-    "releaseNotes":  "- Nang cap bao mat: An toan bo thong tin may chu cap nhat tren giao dien\n- Tinh gon giao dien: Tich hop Check for Update truc tiep tren Menu Strip\n- Loai bo tab thong tin cap nhat de bao mat thong tin nguon\n- Toi uu co che tu dong cap nhat va khoi dong lai",
+    "title":  "Ban cap nhat v1.0.3 - Fix loi My AI va nang cap bao mat",
+    "releaseNotes":  "- Khac phuc triet de loi bi ket khi nhan thong bao My AI va popup Say Hi to My AI\n- Tu dong gat bo thong bao noi tren dinh man hinh de tranh click nham vao My AI\n- Tu dong vuot thoat khoi man hinh Chat ve man hinh chinh Settings\n- Nang cap bao mat va tinh gon giao dien",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
