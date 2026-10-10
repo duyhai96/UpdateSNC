@@ -2,11 +2,10 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.1.1
+- **Phien ban:** v1.1.2
 - **Ngay phat hanh:** 2026-10-10
-- **Tieu de:** Ban cap nhat v1.1.1 - Khac phuc triet de treo man hinh Camera/Lenses sau dang ky
+- **Tieu de:** Ban cap nhat v1.1.2 - Toi uu bam ket ban va tu chuyen man hinh
 
 ### Noi dung cap nhat:
-- Nhan dien ngay lap tuc khi vao Camera chinh hoac Lens carousel (Get Lens / For You), khong bi cho hay treo o buoc kiem tra
-- Phan biet chinh xac man hinh goi y ket ban Add Friends onboarding voi icon Add Friends tren thanh header Camera
-- Tu dong bam Avatar mo Profile va vao Settings muot ma ngay khi o Camera
+- Bo doan check nut Continue thua sau khi bam nut Add Friends xanh
+- Cho Snapchat xu ly them ban be va tu dong chuyen tiep man hinh muot ma
