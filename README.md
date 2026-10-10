@@ -2,11 +2,10 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.0.9
+- **Phien ban:** v1.1.0
 - **Ngay phat hanh:** 2026-10-10
-- **Tieu de:** Ban cap nhat v1.0.9 - Kiem tra linh hoat man hinh Add Friends va Bitmoji avatar
+- **Tieu de:** Ban cap nhat v1.1.0 - Bo menu chuot phai tren view man hinh thiet bi
 
 ### Noi dung cap nhat:
-- Kiem tra chinh xac co man hinh Add Friends thi moi thuc hien ket ban/skip
-- Neu khong co Add Friends (vao thang Bitmoji mannequin / avatar): tu dong thoat ngay qua nut X / Back / Leave, khong bi cho doi vo ich
-- Xu ly nhanh cac man hinh Not Now / Upload Photo / Onboarding
+- Bo menu chuot phai tren view man hinh dien thoai (Phone Screen/DeviceView) de tranh bat tien khi thao tac va click nham
+- Giu nguyen menu chuot phai day du tren tung dong danh sach thiet bi (DataGridView)
