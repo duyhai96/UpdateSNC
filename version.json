@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.2",
+    "version":  "1.1.3",
     "versionCode":  2,
     "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.1.2 - Toi uu bam ket ban va tu chuyen man hinh",
-    "releaseNotes":  "- Bo doan check nut Continue thua sau khi bam nut Add Friends xanh\n- Cho Snapchat xu ly them ban be va tu dong chuyen tiep man hinh muot ma",
+    "title":  "Ban cap nhat v1.1.3 - Toi uu xu ly bo qua goi y sau dang ky",
+    "releaseNotes":  "- Dong bo cap nhat code toi uu bo qua goi y sau dang ky\n- Tang delay on dinh va xu ly bo qua cac popup khong can thiet",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
