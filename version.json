@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.6",
+    "version":  "1.1.7",
     "versionCode":  2,
-    "releaseDate":  "2026-10-10",
-    "title":  "Ban cap nhat v1.1.6 - Sua triet de loi che khuat giao dien \u0026 nut bam gon dep",
-    "releaseNotes":  "- Sua thu tu docking giup thanh menu khong con che khuat cac nut thao tac tren cung (Nap thiet bi, Start All, Tat nguon)\n- Chieu cao menu gon dep hon (62px) va khoa AutoScroll ngan bi nhay cuon\n- Sua nut ket qua khong con bi cat chu \u0027Resul\u0027 thanh \u0027Xem\u0027 ro rang, chong de chu",
+    "releaseDate":  "2026-10-17",
+    "title":  "Ban cap nhat v1.1.7 - Go OTP ban phim so that \u0026 toi uu xac thuc 2FA",
+    "releaseNotes":  "- Go OTP bang ban phim so Numpad ao\n- Tu dong bam nut xac nhan checkmark tren ban phim so\n- Toi uu nhip cho va toc do xu ly 2FA",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
