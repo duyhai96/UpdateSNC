@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.1.9
+- **Phien ban:** v1.2.0
 - **Ngay phat hanh:** 2026-10-18
-- **Tieu de:** Ban cap nhat v1.1.9 - Fix triet de focus va xoa email cu tren man hinh Snapchat
+- **Tieu de:** Ban cap nhat v1.2.0 - Khoi phuc thao tac bam o email, xoa sach va dien mail moi
 
 ### Noi dung cap nhat:
-- Quet bounds o nhap email khong phu thuoc thu tu thuoc tinh XML
-- Xoa sach 100% email cu bang vong lap POSIX sh ca hai chieu
-- Nhap truc tiep email moi va bam nut SAVE chinh xac
+- Khoi phuc chuan thao tac bam truc tiep vao o email Snapchat va double-tap
+- Xoa sach hoan toan email cu bang ClearTextField va ADB_CLEAR_TEXT
+- Dien email moi va luu SAVE thanh cong 100%
