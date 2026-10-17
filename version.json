@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.8",
+    "version":  "1.1.9",
     "versionCode":  2,
     "releaseDate":  "2026-10-18",
-    "title":  "Ban cap nhat v1.1.8 - Fix triet de doi email sang mail.tm",
-    "releaseNotes":  "- Sua thu tu docking giup thanh menu khong con che khuat cac nut thao tac tren cung (Nap thiet bi, Start All, Tat nguon)\n- Chieu cao menu gon dep hon (62px) va khoa AutoScroll ngan bi nhay cuon\n- Sua nut ket qua khong con bi cat chu \u0027Resul\u0027 thanh \u0027Xem\u0027 ro rang, chong de chu",
+    "title":  "Ban cap nhat v1.1.9 - Fix triet de focus va xoa email cu tren man hinh Snapchat",
+    "releaseNotes":  "- Quet bounds o nhap email khong phu thuoc thu tu thuoc tinh XML\n- Xoa sach 100% email cu bang vong lap POSIX sh ca hai chieu\n- Nhap truc tiep email moi va bam nut SAVE chinh xac",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
