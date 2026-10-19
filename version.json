@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.1",
+    "version":  "1.2.2",
     "versionCode":  2,
     "releaseDate":  "2026-10-19",
-    "title":  "Ban cap nhat v1.2.1 - Fix loi treo Not Responding va ghi de tep cap nhat",
-    "releaseNotes":  "- Sua triet de loi treo Not Responding khi cap nhat ung dung\n- Fix loi thoat khong ghi de duoc tep khi cap nhat tu dong tren Windows\n- Kiem tra chat che man hinh Dien Ten, ngan click mu khi Snapchat bi vang ve Home",
+    "title":  "Ban cap nhat v1.2.2 - Fix loi treo doi OTP khi Snapchat tu choi so 5SIM",
+    "releaseNotes":  "- Nhan dien tuc thi loi We cannot verify this phone number tu Snapchat\n- Tu dong ban so tren 5SIM hoan tien 100% va thu doi mua so moi\n- Khong con bi treo 90 giay doi OTP khi so bi chan",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

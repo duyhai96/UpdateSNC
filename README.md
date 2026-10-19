@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.2.1
+- **Phien ban:** v1.2.2
 - **Ngay phat hanh:** 2026-10-19
-- **Tieu de:** Ban cap nhat v1.2.1 - Fix loi treo Not Responding va ghi de tep cap nhat
+- **Tieu de:** Ban cap nhat v1.2.2 - Fix loi treo doi OTP khi Snapchat tu choi so 5SIM
 
 ### Noi dung cap nhat:
-- Sua triet de loi treo Not Responding khi cap nhat ung dung
-- Fix loi thoat khong ghi de duoc tep khi cap nhat tu dong tren Windows
-- Kiem tra chat che man hinh Dien Ten, ngan click mu khi Snapchat bi vang ve Home
+- Nhan dien tuc thi loi We cannot verify this phone number tu Snapchat
+- Tu dong ban so tren 5SIM hoan tien 100% va thu doi mua so moi
+- Khong con bi treo 90 giay doi OTP khi so bi chan
