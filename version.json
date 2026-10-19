@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.3",
-    "versionCode":  3,
+    "version":  "1.2.4",
+    "versionCode":  4,
     "releaseDate":  "2026-10-19",
-    "title":  "Ban cap nhat v1.2.3 - Fix loi man hinh den, chan click va tieng ding Windows",
-    "releaseNotes":  "- Khac phuc triet de loi tran bo dem pipe stdout lam scrcpy bi treo gay man hinh den\n- Danh thuc man hinh (wake up) va mo khoa may tu dong khi khoi chay scrcpy va khi click chuot\n- Khac phuc overlay chan click chuot va tieng ding cua Windows bang HTTRANSPARENT hit-test\n- Tu dong khoi phuc/ket noi lai mirror khi click vao man hinh neu scrcpy bi ngat",
+    "title":  "Ban cap nhat v1.2.4 - Fix triet de loi treo Not Responding khi click phan cung ESP32",
+    "releaseNotes":  "- Xu ly bat dong bo lenh gui click ESP32 kem WriteTimeout 800ms tranh nghẽn cong COM treo ung dung\n- Chuyen log ESP32 sang BeginInvoke khong bao gio gay deadlock voi luong giao dien UI\n- Bo AttachThreadInput tren DeviceView tranh khoa cheo luong voi cua so SDL scrcpy\n- Tu dong an ban phim ao tren may khi dien ten de nut Tiep tuc (Agree and Continue) luon hien thi ro rang",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
