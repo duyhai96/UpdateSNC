@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.2",
-    "versionCode":  2,
+    "version":  "1.2.3",
+    "versionCode":  3,
     "releaseDate":  "2026-10-19",
-    "title":  "Ban cap nhat v1.2.2 - Fix loi treo doi OTP khi Snapchat tu choi so 5SIM",
-    "releaseNotes":  "- Nhan dien tuc thi loi We cannot verify this phone number tu Snapchat\n- Tu dong ban so tren 5SIM hoan tien 100% va thu doi mua so moi\n- Khong con bi treo 90 giay doi OTP khi so bi chan",
+    "title":  "Ban cap nhat v1.2.3 - Fix loi man hinh den, chan click va tieng ding Windows",
+    "releaseNotes":  "- Khac phuc triet de loi tran bo dem pipe stdout lam scrcpy bi treo gay man hinh den\n- Danh thuc man hinh (wake up) va mo khoa may tu dong khi khoi chay scrcpy va khi click chuot\n- Khac phuc overlay chan click chuot va tieng ding cua Windows bang HTTRANSPARENT hit-test\n- Tu dong khoi phuc/ket noi lai mirror khi click vao man hinh neu scrcpy bi ngat",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
