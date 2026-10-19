@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.4",
-    "versionCode":  4,
+    "version":  "1.2.5",
+    "versionCode":  5,
     "releaseDate":  "2026-10-19",
-    "title":  "Ban cap nhat v1.2.4 - Fix triet de loi treo Not Responding khi click phan cung ESP32",
-    "releaseNotes":  "- Xu ly bat dong bo lenh gui click ESP32 kem WriteTimeout 800ms tranh nghẽn cong COM treo ung dung\n- Chuyen log ESP32 sang BeginInvoke khong bao gio gay deadlock voi luong giao dien UI\n- Bo AttachThreadInput tren DeviceView tranh khoa cheo luong voi cua so SDL scrcpy\n- Tu dong an ban phim ao tren may khi dien ten de nut Tiep tuc (Agree and Continue) luon hien thi ro rang",
+    "title":  "Ban cap nhat v1.2.5 - Fix triet de loi treo View/Scrcpy & Them nut Bat/Tat View tiet kiem CPU",
+    "releaseNotes":  "- Them nut '📱 Tat View (Tiet kiem CPU)' giup tat toan bo Scrcpy, ha CPU ve 0% ma tool van tu dong chay 100% qua ADB\n- Toi uu Scrcpy xuong 480p @ 20 FPS, bo render software giup khong con ngốn 100% CPU khi chay nhieu may\n- Bo SetFocus dong bo xuyen tien trinh va go bo Timer 16ms chay ngam 24/7 tren OverlayWindow\n- Luu bo nho dem chi so thiet bi (Index cache) loai bo hoan toan cac lenh Invoke dong bo gay deadlock UI thread",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
