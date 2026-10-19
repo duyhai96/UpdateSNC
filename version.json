@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
+    "version":  "1.2.1",
     "versionCode":  2,
-    "releaseDate":  "2026-10-18",
-    "title":  "Ban cap nhat v1.2.0 - Khoi phuc thao tac bam o email, xoa sach va dien mail moi",
-    "releaseNotes":  "- Khoi phuc chuan thao tac bam truc tiep vao o email Snapchat va double-tap\n- Xoa sach hoan toan email cu bang ClearTextField va ADB_CLEAR_TEXT\n- Dien email moi va luu SAVE thanh cong 100%",
+    "releaseDate":  "2026-10-19",
+    "title":  "Ban cap nhat v1.2.1 - Fix loi treo Not Responding va check man hinh Dien Ten",
+    "releaseNotes":  "- Sua triet de loi treo Not Responding khi cap nhat ung dung tren may khac\n- Bo sung link du phong, hien thi MB / % va nut Huy khi tai cap nhat\n- Kiem tra chat che man hinh Dien Ten, ngan click mu khi Snapchat bi vang ve Home",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

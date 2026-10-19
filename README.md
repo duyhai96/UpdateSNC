@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.2.0
-- **Ngay phat hanh:** 2026-10-18
-- **Tieu de:** Ban cap nhat v1.2.0 - Khoi phuc thao tac bam o email, xoa sach va dien mail moi
+- **Phien ban:** v1.2.1
+- **Ngay phat hanh:** 2026-10-19
+- **Tieu de:** Ban cap nhat v1.2.1 - Fix loi treo Not Responding va check man hinh Dien Ten
 
 ### Noi dung cap nhat:
-- Khoi phuc chuan thao tac bam truc tiep vao o email Snapchat va double-tap
-- Xoa sach hoan toan email cu bang ClearTextField va ADB_CLEAR_TEXT
-- Dien email moi va luu SAVE thanh cong 100%
+- Sua triet de loi treo Not Responding khi cap nhat ung dung tren may khac
+- Bo sung link du phong, hien thi MB / % va nut Huy khi tai cap nhat
+- Kiem tra chat che man hinh Dien Ten, ngan click mu khi Snapchat bi vang ve Home
