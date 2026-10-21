@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.5",
-    "versionCode":  5,
-    "releaseDate":  "2026-10-19",
-    "title":  "Ban cap nhat v1.2.5 - Fix triet de loi treo View/Scrcpy & Them nut Bat/Tat View tiet kiem CPU",
-    "releaseNotes":  "- Them nut '📱 Tat View (Tiet kiem CPU)' giup tat toan bo Scrcpy, ha CPU ve 0% ma tool van tu dong chay 100% qua ADB\n- Toi uu Scrcpy xuong 480p @ 20 FPS, bo render software giup khong con ngốn 100% CPU khi chay nhieu may\n- Bo SetFocus dong bo xuyen tien trinh va go bo Timer 16ms chay ngam 24/7 tren OverlayWindow\n- Luu bo nho dem chi so thiet bi (Index cache) loai bo hoan toan cac lenh Invoke dong bo gay deadlock UI thread",
+    "version":  "1.2.6",
+    "versionCode":  6,
+    "releaseDate":  "2026-10-21",
+    "title":  "Ban cap nhat v1.2.6 - Dong goi Self-Contained khong can cai .NET Runtime",
+    "releaseNotes":  "- Dong goi tron goi (.NET 9 Desktop Runtime Self-Contained) chay ngay tren moi may tinh khong can cai them runtime\n- Nang cap do on dinh va dong goi Single-File toi uu dung luong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
