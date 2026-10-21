@@ -2,12 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.2.9
+- **Phien ban:** v1.3.0
 - **Ngay phat hanh:** 2026-10-21
-- **Tieu de:** Ban cap nhat v1.2.9 - Cho WiFi on dinh, thu lai 15 lan neu N/A va tiep tuc logic
+- **Tieu de:** Ban cap nhat v1.3.0 - Nang cap toc do check IP, tu dong retry khi check tay, chong rot IP
 
 ### Noi dung cap nhat:
-- Cho vai giay de WiFi va Router Proxy on dinh duong truyen truoc khi check IP
-- Tu dong doi va thu lai toi da 15 lan neu IP tra ve N/A
-- Neu sau 15 lan van chua nhan duoc IP thi van tiep tuc logic dang ky theo yeu cau
-- Tranh tinh trang lap Change Device lien tuc
+- Bo qua lenh su tat IPv6 lap lai lien tuc khi check IP giup toc do check tang gap 3 lan
+- Nut Check Public IP thu cong tu dong retry toi da 5 lan khi Proxy dang xoay thay vi bao N/A ngay
+- Ket noi song song cac domain ip-api.com, api.country.is, ipwho.is chuan xac 100% theo tung may
