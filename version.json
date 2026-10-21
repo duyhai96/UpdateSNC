@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.6",
-    "versionCode":  6,
+    "version":  "1.2.7",
+    "versionCode":  7,
     "releaseDate":  "2026-10-21",
-    "title":  "Ban cap nhat v1.2.6 - Dong goi Self-Contained khong can cai .NET Runtime",
-    "releaseNotes":  "- Dong goi tron goi (.NET 9 Desktop Runtime Self-Contained) chay ngay tren moi may tinh khong can cai them runtime\n- Nang cap do on dinh va dong goi Single-File toi uu dung luong",
+    "title":  "Ban cap nhat v1.2.7 - Fix triet de loi treo ExpressVPN Router waiting/reconnecting",
+    "releaseNotes":  "- Tu dong phat hien server VPN bi loi/treo waiting/reconnecting va tu dong chuyen sang vi tri khac (thu toi da 3 vi tri)\n- Khong con bi dung toan bo luong khi 1 vi tri ExpressVPN bi nghen mang hoac bao tri",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
