@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.7",
-    "versionCode":  7,
+    "version":  "1.2.8",
+    "versionCode":  8,
     "releaseDate":  "2026-10-21",
-    "title":  "Ban cap nhat v1.2.7 - Fix triet de loi treo ExpressVPN Router waiting/reconnecting",
-    "releaseNotes":  "- Tu dong phat hien server VPN bi loi/treo waiting/reconnecting va tu dong chuyen sang vi tri khac (thu toi da 3 vi tri)\n- Khong con bi dung toan bo luong khi 1 vi tri ExpressVPN bi nghen mang hoac bao tri",
+    "title":  "Ban cap nhat v1.2.8 - Tu dong nhan dien IP va Quoc gia tung may ngay khi Start va Change Device",
+    "releaseNotes":  "- Tu dong kiem tra IP va xac dinh quoc gia rieng cua tung may ngay khi bam Start/Change All\n- Tung may tu dong fake thong tin thiet bi, mui gio va ngon ngu chuan 100% theo IP rieng\n- Khong can phai chon nuoc thu cong, moi may chay hoan toan doc lap",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
