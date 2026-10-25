@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.4.1
+- **Phien ban:** v1.4.2
 - **Ngay phat hanh:** 2026-10-25
-- **Tieu de:** Ban cap nhat v1.4.1 - Khac phuc triet de xung dot ADB MiChanger va hien tuong treo chuot quay tron man view
+- **Tieu de:** Ban cap nhat v1.4.2 - Fix day Sheet theo nuoc tung may va chong treo View khi boot
 
 ### Noi dung cap nhat:
-- Khac phuc triet de xung dot ADB khi mo cung luc Snap Tool va MiChanger / XiaoWei
-- Loai bo deadlock SetFocus va xu ly WM_SETCURSOR chong hien tuong chuot quay tron va treo ung dung khi re chuot qua man view
-- Tang thoi gian cho encoder len 18s giup cac dong may chip MediaTek (Nokia 3.1 Plus...) ket noi on dinh 100%
-- Chuyen LockPortraitOrientation sang chay ngam khong chan UI thread
+- Fix loi tat ca tai khoan bi day len cot AE tren Google Sheet, tu dong chia dung cot theo ma nuoc cua tung thiet bi (SA, QA, AE, US...)
+- Khac phuc triet de treo man View khi khoi dong dien thoai: loai bo EnumWindows toan desktop gay do chuot va UI WinForms
+- Toi uu do phan giai max-size 640 giup chip MediaTek (Nokia 3.1 Plus) khoi tao encoder scrcpy nhanh gap 3 lan
+- Hien thi trang thai ket noi scrcpy ro rang: Kiem tra may -> Cho mo View -> Dang ket noi View

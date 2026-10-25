@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.1",
-    "versionCode":  10,
+    "version":  "1.4.2",
+    "versionCode":  11,
     "releaseDate":  "2026-10-25",
-    "title":  "Ban cap nhat v1.4.1 - Khac phuc triet de xung dot ADB MiChanger va hien tuong treo chuot quay tron man view",
-    "releaseNotes":  "- Khac phuc triet de xung dot ADB khi mo cung luc Snap Tool va MiChanger / XiaoWei\n- Loai bo deadlock SetFocus va xu ly WM_SETCURSOR chong hien tuong chuot quay tron va treo ung dung khi re chuot qua man view\n- Tang thoi gian cho encoder len 18s giup cac dong may chip MediaTek (Nokia 3.1 Plus...) ket noi on dinh 100%\n- Chuyen LockPortraitOrientation sang chay ngam khong chan UI thread",
+    "title":  "Ban cap nhat v1.4.2 - Fix day Sheet theo nuoc tung may va chong treo View khi boot",
+    "releaseNotes":  "- Fix loi tat ca tai khoan bi day len cot AE tren Google Sheet, tu dong chia dung cot theo ma nuoc cua tung thiet bi (SA, QA, AE, US...)\n- Khac phuc triet de treo man View khi khoi dong dien thoai: loai bo EnumWindows toan desktop gay do chuot va UI WinForms\n- Toi uu do phan giai max-size 640 giup chip MediaTek (Nokia 3.1 Plus) khoi tao encoder scrcpy nhanh gap 3 lan\n- Hien thi trang thai ket noi scrcpy ro rang: Kiem tra may -\u003e Cho mo View -\u003e Dang ket noi View",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
