@@ -2,11 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.3.0
-- **Ngay phat hanh:** 2026-10-21
-- **Tieu de:** Ban cap nhat v1.3.0 - Nang cap toc do check IP, tu dong retry khi check tay, chong rot IP
+- **Phien ban:** v1.4.0
+- **Ngay phat hanh:** 2026-10-25
+- **Tieu de:** Ban cap nhat v1.4.0 - Nang cap tu dong 2FA, Direct Screen Stream va toi uu ADB
 
 ### Noi dung cap nhat:
-- Bo qua lenh su tat IPv6 lap lai lien tuc khi check IP giup toc do check tang gap 3 lan
-- Nut Check Public IP thu cong tu dong retry toi da 5 lan khi Proxy dang xoay thay vi bao N/A ngay
-- Ket noi song song cac domain ip-api.com, api.country.is, ipwho.is chuan xac 100% theo tung may
+- Toi uu luong dang nhap 2FA va tu dong lay ma OTP qua Microsoft Graph API sieu toc
+- Direct Screen Stream muot ma phan hoi tuc thi, loai bo phu thuoc scrcpy ngoai
+- Bo cong cu dong bo chuan ADB va toi uu hoa ket noi da thiet bi
+- Bao ve an toan file cau hinh, chong ghi de cai dat khi cap nhat

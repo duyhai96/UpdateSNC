@@ -1,8 +1,8 @@
 {
-    "version":  "1.3.0",
-    "versionCode":  8,
-    "releaseDate":  "2026-10-21",
-    "title":  "Ban cap nhat v1.3.0 - Nang cap toc do check IP, tu dong retry khi check tay, chong rot IP",
-    "releaseNotes":  "- Bo qua lenh su tat IPv6 lap lai lien tuc khi check IP giup toc do check tang gap 3 lan\n- Nut Check Public IP thu cong tu dong retry toi da 5 lan khi Proxy dang xoay thay vi bao N/A ngay\n- Ket noi song song cac domain ip-api.com, api.country.is, ipwho.is chuan xac 100% theo tung may",
+    "version":  "1.4.0",
+    "versionCode":  9,
+    "releaseDate":  "2026-10-25",
+    "title":  "Ban cap nhat v1.4.0 - Nang cap tu dong 2FA, Direct Screen Stream va toi uu ADB",
+    "releaseNotes":  "- Toi uu luong dang nhap 2FA va tu dong lay ma OTP qua Microsoft Graph API sieu toc\n- Direct Screen Stream muot ma phan hoi tuc thi, loai bo phu thuoc scrcpy ngoai\n- Bo cong cu dong bo chuan ADB va toi uu hoa ket noi da thiet bi\n- Bao ve an toan file cau hinh, chong ghi de cai dat khi cap nhat",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
