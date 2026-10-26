@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.3",
-    "versionCode":  12,
+    "version":  "1.4.4",
+    "versionCode":  13,
     "releaseDate":  "2026-10-26",
-    "title":  "Bản cập nhật v1.4.3 - Khắc phục Google Voice Typing trên Xiaomi A1 và tối ưu View",
-    "releaseNotes":  "- Khắc phục triệt để lỗi tự động bật Google Voice Typing trên Xiaomi Mi A1 / Android One gây chặn ô nhập liệu Email, Password\n- Ưu tiên kích hoạt Gboard và ADBKeyboard làm bàn phím chuẩn, vô hiệu hóa Voice Typing\n- Loại bỏ context menu chuột phải trên View màn hình, trả lại tính năng Back nguyên bản của Scrcpy\n- Tối ưu chống lag / đơ chuột quay khi mở hoặc resize màn hình View",
+    "title":  "Bản cập nhật v1.4.4 - Khắc phục triệt để lỗi bấm Back văng khỏi màn hình Settings",
+    "releaseNotes":  "- Nhận diện chuẩn xác màn hình Cài đặt (Settings Root) trên mọi phiên bản Snapchat mới\n- Khắc phục triệt để lỗi nhận nhầm màn hình Settings là My AI dẫn đến tự động bấm Back hoặc thoát app\n- Loại bỏ thao tác tap mù và double Back khi điều hướng vào Cài đặt\n- Tự động kiểm tra và chốt màn hình Cài đặt ngay sau khi bấm icon bánh răng Profile",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
