@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.4.4
+- **Phien ban:** v1.4.5
 - **Ngay phat hanh:** 2026-10-26
-- **Tieu de:** Bản cập nhật v1.4.4 - Khắc phục triệt để lỗi bấm Back văng khỏi màn hình Settings
+- **Tieu de:** Ban cap nhat v1.4.5 - Fix loi so luong mail bi nhay lai va dong bo emails.txt / config.json
 
 ### Noi dung cap nhat:
-- Nhận diện chuẩn xác màn hình Cài đặt (Settings Root) trên mọi phiên bản Snapchat mới
-- Khắc phục triệt để lỗi nhận nhầm màn hình Settings là My AI dẫn đến tự động bấm Back hoặc thoát app
-- Loại bỏ thao tác tap mù và double Back khi điều hướng vào Cài đặt
-- Tự động kiểm tra và chốt màn hình Cài đặt ngay sau khi bấm icon bánh răng Profile
+- Khac phuc triet de loi so luong mail bi tang lai / revert khi dong va mo lai phan mem
+- Thong nhat thu muc build va dong bo lien tuc giua emails.txt va config.json
+- Tu dong loc bo tat ca email da reg thanh cong hoac da ton tai trong results*.txt khi load lai danh sach
+- Tu dong luu emails.txt ngay khi nguoi dung nhap hoac chinh sua mail

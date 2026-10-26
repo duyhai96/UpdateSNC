@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.4",
-    "versionCode":  13,
+    "version":  "1.4.5",
+    "versionCode":  14,
     "releaseDate":  "2026-10-26",
-    "title":  "Bản cập nhật v1.4.4 - Khắc phục triệt để lỗi bấm Back văng khỏi màn hình Settings",
-    "releaseNotes":  "- Nhận diện chuẩn xác màn hình Cài đặt (Settings Root) trên mọi phiên bản Snapchat mới\n- Khắc phục triệt để lỗi nhận nhầm màn hình Settings là My AI dẫn đến tự động bấm Back hoặc thoát app\n- Loại bỏ thao tác tap mù và double Back khi điều hướng vào Cài đặt\n- Tự động kiểm tra và chốt màn hình Cài đặt ngay sau khi bấm icon bánh răng Profile",
+    "title":  "Ban cap nhat v1.4.5 - Fix loi so luong mail bi nhay lai va dong bo emails.txt / config.json",
+    "releaseNotes":  "- Khac phuc triet de loi so luong mail bi tang lai / revert khi dong va mo lai phan mem\n- Thong nhat thu muc build va dong bo lien tuc giua emails.txt va config.json\n- Tu dong loc bo tat ca email da reg thanh cong hoac da ton tai trong results*.txt khi load lai danh sach\n- Tu dong luu emails.txt ngay khi nguoi dung nhap hoac chinh sua mail",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
