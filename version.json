@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.5",
-    "versionCode":  14,
+    "version":  "1.4.6",
+    "versionCode":  15,
     "releaseDate":  "2026-10-26",
-    "title":  "Ban cap nhat v1.4.5 - Fix loi so luong mail bi nhay lai va dong bo emails.txt / config.json",
-    "releaseNotes":  "- Khac phuc triet de loi so luong mail bi tang lai / revert khi dong va mo lai phan mem\n- Thong nhat thu muc build va dong bo lien tuc giua emails.txt va config.json\n- Tu dong loc bo tat ca email da reg thanh cong hoac da ton tai trong results*.txt khi load lai danh sach\n- Tu dong luu emails.txt ngay khi nguoi dung nhap hoac chinh sua mail",
+    "title":  "\"",
+    "releaseNotes":  "Ban",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
