@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.7",
-    "versionCode":  16,
-    "releaseDate":  "2026-10-26",
-    "title":  "BanCapNhat147",
-    "releaseNotes":  "- Fix loi tat ca tai khoan bi day len cot AE tren Google Sheet, tu dong chia dung cot theo ma nuoc cua tung thiet bi (SA, QA, AE, US...)\n- Khac phuc triet de treo man View khi khoi dong dien thoai: loai bo EnumWindows toan desktop gay do chuot va UI WinForms\n- Toi uu do phan giai max-size 640 giup chip MediaTek (Nokia 3.1 Plus) khoi tao encoder scrcpy nhanh gap 3 lan\n- Hien thi trang thai ket noi scrcpy ro rang: Kiem tra may -\u003e Cho mo View -\u003e Dang ket noi View",
+    "version":  "1.4.8",
+    "versionCode":  17,
+    "releaseDate":  "2026-10-27",
+    "title":  "Ban cap nhat v1.4.8 - Fix mo Chrome xac thuc Email va tu dong xu ly onboarding Chrome",
+    "releaseNotes":  "- Mo link xac thuc email qua Chrome component va Android Intent truc tiep\n- Tu dong xu ly man hinh chao mung Chrome: bam \u0027Stay signed out\u0027, chon \u0027Chrome\u0027 mac dinh, \u0027Set as default\u0027\n- Khoa cung man hinh Portrait chong xoay ngang gay loi den man hinh\n- Tu dong dieu huong tu man hinh Camera/Profile vao Settings de tiep tuc bat 2FA sau khi verify mail\n- Toi uu thoi gian cho mail va nhan dien link xac thuc Hotmail / Outlook / Temp Mail",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

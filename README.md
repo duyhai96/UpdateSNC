@@ -2,12 +2,13 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.4.7
-- **Ngay phat hanh:** 2026-10-26
-- **Tieu de:** BanCapNhat147
+- **Phien ban:** v1.4.8
+- **Ngay phat hanh:** 2026-10-27
+- **Tieu de:** Ban cap nhat v1.4.8 - Fix mo Chrome xac thuc Email va tu dong xu ly onboarding Chrome
 
 ### Noi dung cap nhat:
-- Fix loi tat ca tai khoan bi day len cot AE tren Google Sheet, tu dong chia dung cot theo ma nuoc cua tung thiet bi (SA, QA, AE, US...)
-- Khac phuc triet de treo man View khi khoi dong dien thoai: loai bo EnumWindows toan desktop gay do chuot va UI WinForms
-- Toi uu do phan giai max-size 640 giup chip MediaTek (Nokia 3.1 Plus) khoi tao encoder scrcpy nhanh gap 3 lan
-- Hien thi trang thai ket noi scrcpy ro rang: Kiem tra may -> Cho mo View -> Dang ket noi View
+- Mo link xac thuc email qua Chrome component va Android Intent truc tiep
+- Tu dong xu ly man hinh chao mung Chrome: bam 'Stay signed out', chon 'Chrome' mac dinh, 'Set as default'
+- Khoa cung man hinh Portrait chong xoay ngang gay loi den man hinh
+- Tu dong dieu huong tu man hinh Camera/Profile vao Settings de tiep tuc bat 2FA sau khi verify mail
+- Toi uu thoi gian cho mail va nhan dien link xac thuc Hotmail / Outlook / Temp Mail
