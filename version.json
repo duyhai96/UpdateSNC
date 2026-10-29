@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.1",
-    "versionCode":  20,
+    "version":  "1.5.2",
+    "versionCode":  21,
     "releaseDate":  "2026-10-29",
-    "title":  "Ban cap nhat v1.5.1 - Auto-Healing Watchdog tu dong phuc hoi View khong can ket noi bang tay",
-    "releaseNotes":  "- Tich hop Auto-Healing Watchdog: tu dong phat hien man hinh bi mat ket noi/den man hinh khi may online va tu dong Reconnect sau 7s ma KHONG CAN CHAT TAY\n- Fail-Fast: tu dong giai phong ngay tien trinh scrcpy khi bi dut stream ket noi tu MiChanger/ADB de lap tuc phuc hoi\n- Cho Android InputService san sang truoc khi bat Scrcpy de xoa bo 100% loi ServiceNotFoundException sau khi reboot\n- Xoay vong dai cong TCP va don sach adb reverse tranh xung dot voi MiChanger",
+    "title":  "Ban cap nhat v1.5.2 - Fix loi Change All bi Device Busy va chua xong da bao xong",
+    "releaseNotes":  "- Khac phuc triet de loi khi bam Change All: MiChanger bao Device Busy vi bi goi dong thoi 6 may\n- Tich hop Queue Semaphore dieu phoi goi Tool Change lan luot tung may mot, tu dong cho MiChanger ranh tay de retry\n- Fix loi chua khoi dong xong da hien thong bao Hoan tat: chi bao xong khi thuc su hoan tat va thong ke so may thanh cong / that bai chinh xac\n- Chinh xac hoa thong bao loi dung nguyen nhan (khong con hien nham loi mat ket noi Wifi)",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

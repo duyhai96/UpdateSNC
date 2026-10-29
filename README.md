@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.5.1
+- **Phien ban:** v1.5.2
 - **Ngay phat hanh:** 2026-10-29
-- **Tieu de:** Ban cap nhat v1.5.1 - Auto-Healing Watchdog tu dong phuc hoi View khong can ket noi bang tay
+- **Tieu de:** Ban cap nhat v1.5.2 - Fix loi Change All bi Device Busy va chua xong da bao xong
 
 ### Noi dung cap nhat:
-- Tich hop Auto-Healing Watchdog: tu dong phat hien man hinh bi mat ket noi/den man hinh khi may online va tu dong Reconnect sau 7s ma KHONG CAN CHAT TAY
-- Fail-Fast: tu dong giai phong ngay tien trinh scrcpy khi bi dut stream ket noi tu MiChanger/ADB de lap tuc phuc hoi
-- Cho Android InputService san sang truoc khi bat Scrcpy de xoa bo 100% loi ServiceNotFoundException sau khi reboot
-- Xoay vong dai cong TCP va don sach adb reverse tranh xung dot voi MiChanger
+- Khac phuc triet de loi khi bam Change All: MiChanger bao Device Busy vi bi goi dong thoi 6 may
+- Tich hop Queue Semaphore dieu phoi goi Tool Change lan luot tung may mot, tu dong cho MiChanger ranh tay de retry
+- Fix loi chua khoi dong xong da hien thong bao Hoan tat: chi bao xong khi thuc su hoan tat va thong ke so may thanh cong / that bai chinh xac
+- Chinh xac hoa thong bao loi dung nguyen nhan (khong con hien nham loi mat ket noi Wifi)
