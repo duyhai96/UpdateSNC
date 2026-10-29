@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.5",
-    "versionCode":  24,
+    "version":  "1.5.6",
+    "versionCode":  25,
     "releaseDate":  "2026-10-29",
-    "title":  "Ban cap nhat v1.5.5 - Tich hop Bat 2FA, An Add Friends \u0026 Backup MiChanger cho Form Login",
-    "releaseNotes":  "- Hoan thien quy trinh sau Login: Tu dong cap quyen (Allow / Turn On), doi hien Add Friends va an xuong camera de vao cai dat bat 2FA\n- Them tuy chon Backup MiChanger (goi API http://localhost:9999/backup) sau khi Login thanh cong\n- Chuan hoa dinh dang luu file \u0026 Google Sheet: Chen ma 2FA Snap ngay sau mat khau (username|pass|2fa snap|mail|passmail|...)\n- Tu dong luu va nap cau hinh Form Login \u0026 2FA doc lap",
+    "title":  "Ban cap nhat v1.5.6 - Fix loi nhap Username bi xoa va dien nham Password",
+    "releaseNotes":  "- Fix focus chuyen o nhap giua Username va Password tren Form Login 2FA\n- Loai bo xoa nham Username\n- Tu dong kiem tra va sua neu dien lech",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
