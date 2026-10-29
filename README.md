@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.5.2
+- **Phien ban:** v1.5.3
 - **Ngay phat hanh:** 2026-10-29
-- **Tieu de:** Ban cap nhat v1.5.2 - Fix loi Change All bi Device Busy va chua xong da bao xong
+- **Tieu de:** Ban cap nhat v1.5.3 - Ho tro Change song song tat ca cac thiet bi va khac phuc loi treo Changing
 
 ### Noi dung cap nhat:
-- Khac phuc triet de loi khi bam Change All: MiChanger bao Device Busy vi bi goi dong thoi 6 may
-- Tich hop Queue Semaphore dieu phoi goi Tool Change lan luot tung may mot, tu dong cho MiChanger ranh tay de retry
-- Fix loi chua khoi dong xong da hien thong bao Hoan tat: chi bao xong khi thuc su hoan tat va thong ke so may thanh cong / that bai chinh xac
-- Chinh xac hoa thong bao loi dung nguyen nhan (khong con hien nham loi mat ket noi Wifi)
+- Mo khoa Change song song: Loai bo hang doi sequential lock, cho phep MiChanger change dong thoi tat ca cac may nhu thiet ke
+- Gian cach khoi chay 250ms giua cac may de tranh xung dot HTTP localhost
+- Chuan hoa WaitForBootCompleted: Tu dong cho thiet bi bat dau reboot truoc khi bat tin hieu sys.boot_completed de chong bao hoan tat ao
+- Tu dong giam sat boot toi da 90s, xac minh WiFi va IP on dinh truoc khi hoan tat

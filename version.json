@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.2",
-    "versionCode":  21,
+    "version":  "1.5.3",
+    "versionCode":  22,
     "releaseDate":  "2026-10-29",
-    "title":  "Ban cap nhat v1.5.2 - Fix loi Change All bi Device Busy va chua xong da bao xong",
-    "releaseNotes":  "- Khac phuc triet de loi khi bam Change All: MiChanger bao Device Busy vi bi goi dong thoi 6 may\n- Tich hop Queue Semaphore dieu phoi goi Tool Change lan luot tung may mot, tu dong cho MiChanger ranh tay de retry\n- Fix loi chua khoi dong xong da hien thong bao Hoan tat: chi bao xong khi thuc su hoan tat va thong ke so may thanh cong / that bai chinh xac\n- Chinh xac hoa thong bao loi dung nguyen nhan (khong con hien nham loi mat ket noi Wifi)",
+    "title":  "Ban cap nhat v1.5.3 - Ho tro Change song song tat ca cac thiet bi va khac phuc loi treo Changing",
+    "releaseNotes":  "- Mo khoa Change song song: Loai bo hang doi sequential lock, cho phep MiChanger change dong thoi tat ca cac may nhu thiet ke\n- Gian cach khoi chay 250ms giua cac may de tranh xung dot HTTP localhost\n- Chuan hoa WaitForBootCompleted: Tu dong cho thiet bi bat dau reboot truoc khi bat tin hieu sys.boot_completed de chong bao hoan tat ao\n- Tu dong giam sat boot toi da 90s, xac minh WiFi va IP on dinh truoc khi hoan tat",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
