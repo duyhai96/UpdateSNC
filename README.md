@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.5.0
+- **Phien ban:** v1.5.1
 - **Ngay phat hanh:** 2026-10-29
-- **Tieu de:** Ban cap nhat v1.5.0 - Khac phuc triet de loi mat ket noi man view khi may khac Change Device
+- **Tieu de:** Ban cap nhat v1.5.1 - Auto-Healing Watchdog tu dong phuc hoi View khong can ket noi bang tay
 
 ### Noi dung cap nhat:
-- Khac phuc triet de hien tuong mat view va den man hinh khi may khac dang Change hoac reboot
-- Loai bo co --stay-awake gay loi JVM reflection CleanUp tren cac ROM OnePlus/Android 11-12, bo sung --no-cleanup giup scrcpy khoi chay 100% thanh cong
-- Tich hop he thong HangWatchdog chay ngam tu dong ghi log chan doan khi app bi treo
-- Toi uu thuat toan tim kiem cua so scrcpy va ho tro click/double-click de lap tuc phuc hoi view
+- Tich hop Auto-Healing Watchdog: tu dong phat hien man hinh bi mat ket noi/den man hinh khi may online va tu dong Reconnect sau 7s ma KHONG CAN CHAT TAY
+- Fail-Fast: tu dong giai phong ngay tien trinh scrcpy khi bi dut stream ket noi tu MiChanger/ADB de lap tuc phuc hoi
+- Cho Android InputService san sang truoc khi bat Scrcpy de xoa bo 100% loi ServiceNotFoundException sau khi reboot
+- Xoay vong dai cong TCP va don sach adb reverse tranh xung dot voi MiChanger
