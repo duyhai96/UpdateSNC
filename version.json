@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.7",
-    "versionCode":  26,
+    "version":  "1.5.8",
+    "versionCode":  27,
     "releaseDate":  "2026-10-29",
-    "title":  "Ban cap nhat v1.5.7 - Tich hop Click ESP32 day du cac buoc Login de vuot unusual activity",
-    "releaseNotes":  "- Tich hop click phan cung ESP32 tai 3 thoi diem quan trong: Khi mo app len, Khi dien username xong, Khi dien pass xong\n- Tu dong doc HardwareClickCount va HardwareClickDelayMs tu config de ban chuoi xung chuan xac\n- Tu dong ket noi ESP32 qua COM9 neu chua ket noi\n- Toi uu quy trinh vuot chan \u0027Due to unusual activity\u0027",
+    "title":  "Ban cap nhat v1.5.8 - Fix triet de loi click ESP32 va nhap Password vao o Username tren Form Login 2FA",
+    "releaseNotes":  "- Tu dong an ban phim truoc moi nhip ESP32 de tranh va cham con tro\n- Kiem tra nghiem ngat password_field focused=true truoc khi go pass\n- Tich hop Safety Check \u0026 Auto-Repair tu dong phat hien va dien lai neu username bi lech\n- Tu dong doc thong so ESP32 COM9 va HardwareClickCount",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

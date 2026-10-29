@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.5.7
+- **Phien ban:** v1.5.8
 - **Ngay phat hanh:** 2026-10-29
-- **Tieu de:** Ban cap nhat v1.5.7 - Tich hop Click ESP32 day du cac buoc Login de vuot unusual activity
+- **Tieu de:** Ban cap nhat v1.5.8 - Fix triet de loi click ESP32 va nhap Password vao o Username tren Form Login 2FA
 
 ### Noi dung cap nhat:
-- Tich hop click phan cung ESP32 tai 3 thoi diem quan trong: Khi mo app len, Khi dien username xong, Khi dien pass xong
-- Tu dong doc HardwareClickCount va HardwareClickDelayMs tu config de ban chuoi xung chuan xac
-- Tu dong ket noi ESP32 qua COM9 neu chua ket noi
-- Toi uu quy trinh vuot chan 'Due to unusual activity'
+- Tu dong an ban phim truoc moi nhip ESP32 de tranh va cham con tro
+- Kiem tra nghiem ngat password_field focused=true truoc khi go pass
+- Tich hop Safety Check & Auto-Repair tu dong phat hien va dien lai neu username bi lech
+- Tu dong doc thong so ESP32 COM9 va HardwareClickCount
