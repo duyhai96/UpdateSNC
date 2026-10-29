@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.4.9
-- **Ngay phat hanh:** 2026-10-27
-- **Tieu de:** Ban cap nhat v1.4.9 - Fix loi voi vang ban SIM tren 5SIM khi dang xoay loading
+- **Phien ban:** v1.5.0
+- **Ngay phat hanh:** 2026-10-29
+- **Tieu de:** Ban cap nhat v1.5.0 - Khac phuc triet de loi mat ket noi man view khi may khac Change Device
 
 ### Noi dung cap nhat:
-- Tang thoi gian kiem tra va cho Snapchat duyet SÄT len toi da 25s
-- Nhan dien tuc thi man hinh OTP ngay khi Snapchat duyet thanh cong
-- Chi ban SIM tren 5SIM khi Snapchat co thong bao loi tu choi ro rang, tuyet doi khong huy oan khi dang loading
-- Tu dong click lai Continue sau 8s phong truong hop tap hut tren mang yeu
+- Khac phuc triet de hien tuong mat view va den man hinh khi may khac dang Change hoac reboot
+- Loai bo co --stay-awake gay loi JVM reflection CleanUp tren cac ROM OnePlus/Android 11-12, bo sung --no-cleanup giup scrcpy khoi chay 100% thanh cong
+- Tich hop he thong HangWatchdog chay ngam tu dong ghi log chan doan khi app bi treo
+- Toi uu thuat toan tim kiem cua so scrcpy va ho tro click/double-click de lap tuc phuc hoi view
