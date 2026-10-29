@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.5.4
+- **Phien ban:** v1.5.5
 - **Ngay phat hanh:** 2026-10-29
-- **Tieu de:** Ban cap nhat v1.5.4 - Tang thoi gian cho MiChanger phan hoi, chong bao loi som khi Change
+- **Tieu de:** Ban cap nhat v1.5.5 - Tich hop Bat 2FA, An Add Friends & Backup MiChanger cho Form Login
 
 ### Noi dung cap nhat:
-- Tang timeout goi API MiChanger len 180s (3 phut) cho phep MiChanger thoai mai wipe data va reboot
-- Tu dong doi MiChanger ban toi da 15 lan (moi lan 3s), khong con bao loi Tool Change som
-- Cap nhat trang thai chi tiet theo thoi gian thuc tren giao dien: Dang doi MiChanger xu ly / MiChanger dang ban...
-- Tu dong phat hien thiet bi offline/reboot de chuyen tiep ngay sang buoc cho boot_completed
+- Hoan thien quy trinh sau Login: Tu dong cap quyen (Allow / Turn On), doi hien Add Friends va an xuong camera de vao cai dat bat 2FA
+- Them tuy chon Backup MiChanger (goi API http://localhost:9999/backup) sau khi Login thanh cong
+- Chuan hoa dinh dang luu file & Google Sheet: Chen ma 2FA Snap ngay sau mat khau (username|pass|2fa snap|mail|passmail|...)
+- Tu dong luu va nap cau hinh Form Login & 2FA doc lap
