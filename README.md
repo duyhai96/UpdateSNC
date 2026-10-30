@@ -2,11 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.6.7
+- **Phien ban:** v1.6.8
 - **Ngay phat hanh:** 2026-10-30
-- **Tieu de:** Ban cap nhat v1.6.7 - Khac phuc triet de loi focus va dien password tren Form Login 2FA
+- **Tieu de:** Ban cap nhat v1.6.8 - Ho tro Change Device theo nuoc va doc OTP email Graph API tat ca dinh dang acc
 
 ### Noi dung cap nhat:
-- Khac phuc triet de loi khong focus va dien duoc Password sau khi nhap Username va bam ESP32
-- Tu dong cap nhat toa do moi nhat cua o password, tap truc tiep va kiem tra da nhan ky tu
-- Loai bo nhan dien nham checkbox Save Login Info thanh man hinh da vao app
+- Them chuc nang Change Device tren Form Login 2FA (Nut tren thanh cong cu, menu chuot phai bang & man hinh dien thoai)
+- Tu dong Change Device theo dung quoc gia da chon truoc khi login (MiChanger)
+- Thuat toan boc tach thong minh tat ca dinh dang acc (9, 8, 7, 5 cot) voi recovery mail, refresh token va client ID
+- Nang cap bo doc OTP mail Graph API: tang thoi gian cho 120s va tu dong reset timeout khi vao man hinh Enter the code

@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.7",
-    "versionCode":  36,
+    "version":  "1.6.8",
+    "versionCode":  37,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.7 - Khac phuc triet de loi focus va dien password tren Form Login 2FA",
-    "releaseNotes":  "- Khac phuc triet de loi khong focus va dien duoc Password sau khi nhap Username va bam ESP32\n- Tu dong cap nhat toa do moi nhat cua o password, tap truc tiep va kiem tra da nhan ky tu\n- Loai bo nhan dien nham checkbox Save Login Info thanh man hinh da vao app",
+    "title":  "Ban cap nhat v1.6.8 - Ho tro Change Device theo nuoc va doc OTP email Graph API tat ca dinh dang acc",
+    "releaseNotes":  "- Them chuc nang Change Device tren Form Login 2FA (Nut tren thanh cong cu, menu chuot phai bang \u0026 man hinh dien thoai)\n- Tu dong Change Device theo dung quoc gia da chon truoc khi login (MiChanger)\n- Thuat toan boc tach thong minh tat ca dinh dang acc (9, 8, 7, 5 cot) voi recovery mail, refresh token va client ID\n- Nang cap bo doc OTP mail Graph API: tang thoi gian cho 120s va tu dong reset timeout khi vao man hinh Enter the code",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
