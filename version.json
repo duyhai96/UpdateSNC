@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.0",
-    "versionCode":  29,
+    "version":  "1.6.1",
+    "versionCode":  30,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.0 - Gioi han toi da 4 Group ExpressVPN cho 4 may chay doc lap",
-    "releaseNotes":  "- Gioi han toi da 4 Group ExpressVPN (Group 1, 2, 3, 4)\n- Tu dong map dung 4 may theo thu tu Alpha vao Group 1..4\n- Cac may doi IP song song doc lap, khong doi nhau va tiep tuc ngay sau khi doi thanh cong",
+    "title":  "Ban cap nhat v1.5.5 - Tich hop Bat 2FA, An Add Friends \u0026 Backup MiChanger cho Form Login",
+    "releaseNotes":  "- Hoan thien quy trinh sau Login: Tu dong cap quyen (Allow / Turn On), doi hien Add Friends va an xuong camera de vao cai dat bat 2FA\n- Them tuy chon Backup MiChanger (goi API http://localhost:9999/backup) sau khi Login thanh cong\n- Chuan hoa dinh dang luu file \u0026 Google Sheet: Chen ma 2FA Snap ngay sau mat khau (username|pass|2fa snap|mail|passmail|...)\n- Tu dong luu va nap cau hinh Form Login \u0026 2FA doc lap",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
