@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.5",
-    "versionCode":  34,
+    "version":  "1.6.6",
+    "versionCode":  35,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.5 - Luu va nap trang thai tuy chon Backup MiChanger tren Form Login 2FA",
-    "releaseNotes":  "- Khac phuc triet de loi khong luu trang thai bo chon Backup MiChanger tren Form Login 2FA\n- Tu dong ghi nho va nap dung cau hinh khi dong/mo lai tool",
+    "title":  "Ban cap nhat v1.6.6 - Tich hop cot IP Public va chuc nang Check IP tren Form Login 2FA",
+    "releaseNotes":  "- Bo sung cot \u0027IP Public\u0027 tren bang thiet bi Form Login 2FA\n- Them nut \u0027Check IP\u0027 ngay canh tuy chon Check IP tren giao dien\n- Them menu chuot phai: Check Public IP (May nay / Tat ca) va Vo hieu hoa IPv6 tren bang va man hinh dien thoai\n- Dong bo co che check IP da endpoint, hien thi ma quoc gia nhu ben dang ky",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
