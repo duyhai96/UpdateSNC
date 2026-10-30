@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.4",
-    "versionCode":  33,
+    "version":  "1.6.5",
+    "versionCode":  34,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.4 - Chuan hoa 5 Group Router tinh tu 0 den 4 (Group 0 Home..Group 4)",
-    "releaseNotes":  "- Chuan hoa 5 Group Router bat dau tu 0: Group 0 (Home), Group 1, Group 2, Group 3, Group 4\n- Tu dong map 5 may theo thu tu Alpha dung vao cac Group 0..4\n- Nut \u0027Doi ALL Group\u0027 doi dong loat 5 group tu 0 den 4\n- Dong bo ComboBox, menu chuot phai va hien thi trang thai cho ca Form chinh va Form Login 2FA",
+    "title":  "Ban cap nhat v1.6.5 - Luu va nap trang thai tuy chon Backup MiChanger tren Form Login 2FA",
+    "releaseNotes":  "- Khac phuc triet de loi khong luu trang thai bo chon Backup MiChanger tren Form Login 2FA\n- Tu dong ghi nho va nap dung cau hinh khi dong/mo lai tool",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
