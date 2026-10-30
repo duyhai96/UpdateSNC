@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.9",
-    "versionCode":  28,
+    "version":  "1.6.0",
+    "versionCode":  29,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.5.9 - Tich hop ExpressVPN Change Group doc lap theo may va Change No Group",
-    "releaseNotes":  "- Them tuy chon 1: Change No Group VPN (dung chung 1 VPN, doi nhau cung doi)\n- Them tuy chon 2: Change Group (moi may 1 Group rieng 1..6 theo thu tu Alpha, khong doi nhau)\n- Tu dong map dung endpoint request /v2/vpn/{groupId}/connect cho tung may\n- Cho phep cac may doi IP song song doc lap, xong may nao doi group may do va tiep tuc ngay",
+    "title":  "Ban cap nhat v1.6.0 - Gioi han toi da 4 Group ExpressVPN cho 4 may chay doc lap",
+    "releaseNotes":  "- Gioi han toi da 4 Group ExpressVPN (Group 1, 2, 3, 4)\n- Tu dong map dung 4 may theo thu tu Alpha vao Group 1..4\n- Cac may doi IP song song doc lap, khong doi nhau va tiep tuc ngay sau khi doi thanh cong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
