@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.2",
-    "versionCode":  31,
+    "version":  "1.6.3",
+    "versionCode":  32,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.2 - Ho tro 5 Group ExpressVPN cho 5 may chay doc lap",
-    "releaseNotes":  "- Nang so luong ExpressVPN Group toi da tu 4 len 5 (Group 1..5)\n- Tu dong map dung 5 may theo thu tu Alpha vao cac group 1, 2, 3, 4, 5\n- Cac may doi IP song song doc lap, khong phai doi nhau",
+    "title":  "Ban cap nhat v1.6.3 - Ho tro doi IP tung Group (0..5) va doi IP TAT CA cac Group",
+    "releaseNotes":  "- Nang cap o chon Group thanh ComboBox tien loi: Chon Group 0, 1, 2, 3, 4, 5 hoac Tat ca cac Group (1..5)\n- Them nut \u0027Doi ALL Group\u0027 va \u0027Doi IP Group\u0027 de doi IP linh hoat theo y muon\n- Them menu chuot phai tren bang thiet bi va tren man hinh DeviceView de doi IP Group may nay hoac TAT CA Group\n- Dong bo tinh nang tren ca Form chinh va Form Login 2FA",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
