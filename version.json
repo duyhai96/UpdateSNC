@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.1",
-    "versionCode":  30,
+    "version":  "1.6.2",
+    "versionCode":  31,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.1 - Chuot phai check IP Address va MAC Router",
-    "releaseNotes":  "- Tich hop menu chuot phai tren bang thiet bi de check IP Address (192.168.132.x) va MAC Address router\n- Ho tro check tung may hoac TAT CA may\n- Dong bo tinh nang cho ca Form 1, Form Login 2FA va tren man hinh DeviceView",
+    "title":  "Ban cap nhat v1.6.2 - Ho tro 5 Group ExpressVPN cho 5 may chay doc lap",
+    "releaseNotes":  "- Nang so luong ExpressVPN Group toi da tu 4 len 5 (Group 1..5)\n- Tu dong map dung 5 may theo thu tu Alpha vao cac group 1, 2, 3, 4, 5\n- Cac may doi IP song song doc lap, khong phai doi nhau",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

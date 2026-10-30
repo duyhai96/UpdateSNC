@@ -2,12 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.6.1
+- **Phien ban:** v1.6.2
 - **Ngay phat hanh:** 2026-10-30
-- **Tieu de:** Ban cap nhat v1.5.5 - Tich hop Bat 2FA, An Add Friends & Backup MiChanger cho Form Login
+- **Tieu de:** Ban cap nhat v1.6.2 - Ho tro 5 Group ExpressVPN cho 5 may chay doc lap
 
 ### Noi dung cap nhat:
-- Hoan thien quy trinh sau Login: Tu dong cap quyen (Allow / Turn On), doi hien Add Friends va an xuong camera de vao cai dat bat 2FA
-- Them tuy chon Backup MiChanger (goi API http://localhost:9999/backup) sau khi Login thanh cong
-- Chuan hoa dinh dang luu file & Google Sheet: Chen ma 2FA Snap ngay sau mat khau (username|pass|2fa snap|mail|passmail|...)
-- Tu dong luu va nap cau hinh Form Login & 2FA doc lap
+- Nang so luong ExpressVPN Group toi da tu 4 len 5 (Group 1..5)
+- Tu dong map dung 5 may theo thu tu Alpha vao cac group 1, 2, 3, 4, 5
+- Cac may doi IP song song doc lap, khong phai doi nhau
