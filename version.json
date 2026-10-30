@@ -2,7 +2,7 @@
     "version":  "1.6.1",
     "versionCode":  30,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.5.5 - Tich hop Bat 2FA, An Add Friends \u0026 Backup MiChanger cho Form Login",
-    "releaseNotes":  "- Hoan thien quy trinh sau Login: Tu dong cap quyen (Allow / Turn On), doi hien Add Friends va an xuong camera de vao cai dat bat 2FA\n- Them tuy chon Backup MiChanger (goi API http://localhost:9999/backup) sau khi Login thanh cong\n- Chuan hoa dinh dang luu file \u0026 Google Sheet: Chen ma 2FA Snap ngay sau mat khau (username|pass|2fa snap|mail|passmail|...)\n- Tu dong luu va nap cau hinh Form Login \u0026 2FA doc lap",
+    "title":  "Ban cap nhat v1.6.1 - Chuot phai check IP Address va MAC Router",
+    "releaseNotes":  "- Tich hop menu chuot phai tren bang thiet bi de check IP Address (192.168.132.x) va MAC Address router\n- Ho tro check tung may hoac TAT CA may\n- Dong bo tinh nang cho ca Form 1, Form Login 2FA va tren man hinh DeviceView",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
