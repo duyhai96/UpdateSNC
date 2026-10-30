@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.6",
-    "versionCode":  35,
+    "version":  "1.6.7",
+    "versionCode":  36,
     "releaseDate":  "2026-10-30",
-    "title":  "Ban cap nhat v1.6.6 - Tich hop cot IP Public va chuc nang Check IP tren Form Login 2FA",
-    "releaseNotes":  "- Bo sung cot \u0027IP Public\u0027 tren bang thiet bi Form Login 2FA\n- Them nut \u0027Check IP\u0027 ngay canh tuy chon Check IP tren giao dien\n- Them menu chuot phai: Check Public IP (May nay / Tat ca) va Vo hieu hoa IPv6 tren bang va man hinh dien thoai\n- Dong bo co che check IP da endpoint, hien thi ma quoc gia nhu ben dang ky",
+    "title":  "Ban cap nhat v1.6.7 - Khac phuc triet de loi focus va dien password tren Form Login 2FA",
+    "releaseNotes":  "- Khac phuc triet de loi khong focus va dien duoc Password sau khi nhap Username va bam ESP32\n- Tu dong cap nhat toa do moi nhat cua o password, tap truc tiep va kiem tra da nhan ky tu\n- Loai bo nhan dien nham checkbox Save Login Info thanh man hinh da vao app",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
