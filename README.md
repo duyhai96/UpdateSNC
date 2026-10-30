@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.5.8
-- **Ngay phat hanh:** 2026-10-29
-- **Tieu de:** Ban cap nhat v1.5.8 - Fix triet de loi click ESP32 va nhap Password vao o Username tren Form Login 2FA
+- **Phien ban:** v1.5.9
+- **Ngay phat hanh:** 2026-10-30
+- **Tieu de:** Ban cap nhat v1.5.9 - Tich hop ExpressVPN Change Group doc lap theo may va Change No Group
 
 ### Noi dung cap nhat:
-- Tu dong an ban phim truoc moi nhip ESP32 de tranh va cham con tro
-- Kiem tra nghiem ngat password_field focused=true truoc khi go pass
-- Tich hop Safety Check & Auto-Repair tu dong phat hien va dien lai neu username bi lech
-- Tu dong doc thong so ESP32 COM9 va HardwareClickCount
+- Them tuy chon 1: Change No Group VPN (dung chung 1 VPN, doi nhau cung doi)
+- Them tuy chon 2: Change Group (moi may 1 Group rieng 1..6 theo thu tu Alpha, khong doi nhau)
+- Tu dong map dung endpoint request /v2/vpn/{groupId}/connect cho tung may
+- Cho phep cac may doi IP song song doc lap, xong may nao doi group may do va tiep tuc ngay

@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.8",
-    "versionCode":  27,
-    "releaseDate":  "2026-10-29",
-    "title":  "Ban cap nhat v1.5.8 - Fix triet de loi click ESP32 va nhap Password vao o Username tren Form Login 2FA",
-    "releaseNotes":  "- Tu dong an ban phim truoc moi nhip ESP32 de tranh va cham con tro\n- Kiem tra nghiem ngat password_field focused=true truoc khi go pass\n- Tich hop Safety Check \u0026 Auto-Repair tu dong phat hien va dien lai neu username bi lech\n- Tu dong doc thong so ESP32 COM9 va HardwareClickCount",
+    "version":  "1.5.9",
+    "versionCode":  28,
+    "releaseDate":  "2026-10-30",
+    "title":  "Ban cap nhat v1.5.9 - Tich hop ExpressVPN Change Group doc lap theo may va Change No Group",
+    "releaseNotes":  "- Them tuy chon 1: Change No Group VPN (dung chung 1 VPN, doi nhau cung doi)\n- Them tuy chon 2: Change Group (moi may 1 Group rieng 1..6 theo thu tu Alpha, khong doi nhau)\n- Tu dong map dung endpoint request /v2/vpn/{groupId}/connect cho tung may\n- Cho phep cac may doi IP song song doc lap, xong may nao doi group may do va tiep tuc ngay",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
