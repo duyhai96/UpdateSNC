@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.6",
-    "versionCode":  55,
+    "version":  "1.8.7",
+    "versionCode":  56,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.8.6 - Khac phuc triet de loi treo ung dung (Not Responding) va dong bo View sieu toc",
-    "releaseNotes":  "- Khac phuc triet de loi treo ung dung (Not Responding) do Watchdog va Scrcpy Reconnect chay tren UI thread\n- Chuyen Watchdog kiem tra ket noi sang Background Thread khong chan giao dien WinForms\n- Su dung ConcurrentDictionary O(1) thay cho viec duyet toan bo cay Controls cua flowScreens\n- Loai bo spam ToolTip.SetToolTip tren luong UI tranh gay ngheo Windows API message queue\n- Chuyen UpdateGridButton sang BeginInvoke bat dong bo tranh deadlock cross-thread",
+    "title":  "Ban cap nhat v1.8.7 - Dong bo 100% Menu chuot phai bang sang Card View (Menu day du, chu den de doc)",
+    "releaseNotes":  "- Dong bo 100% menu chuc nang chuot phai tu Bang sang Card View (Change, Chay/Dung, Reconnect, Tunnel 0..4, Check LAN/IP, Tat nguon...)\n- Ho tro click chuot phai vao bat ky vi tri nao tren Card View deu hien thi Menu\n- Toan bo text menu de mau den de nhin, khong bi roi mat",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
