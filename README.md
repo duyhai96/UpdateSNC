@@ -2,11 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.7.4
+- **Phien ban:** v1.7.5
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.7.4 - Sap xep may theo Alpha (0..4) trung Tunnel (0..4) & Real-time VPN Log
+- **Tieu de:** Ban cap nhat v1.7.5 - Fix loi thoat vang app ra Launcher khi vao Settings & toi uu dieu huong Settings Root
 
 ### Noi dung cap nhat:
-- Sap xep thiet bi nghiem ngat theo thu tu Alpha: May 0 -> Tunnel 0 (Home), May 1 -> Tunnel 1, May 2 -> Tunnel 2, May 3 -> Tunnel 3, May 4 -> Tunnel 4
-- Map truc tiep 1-1 giua Group ID (0..4) voi ExpressVPN Router Tunnel (0..4)
-- Cung cap Real-time VPN Log tren o trang thai ExpressVPN: Tu dong cap nhat vi tri moi cua tat ca 5 Group ngay khi co may hoac router doi IP
+- Nhan dien chinh xac package com.snapchat.android, tu dong khoi chay lai ngay lap tuc neu Snapchat bi an hoac vang ra Launcher
+- Loai bo hoan toan lenh KeyEvent(4) bam Back qua da khi o man hinh chinh/camera, tranh thoat app ra man hinh dien thoai
+- Bo sung xu ly man hinh Memories (vuot xuong ve Camera nhe nhang) va man hinh Email (bam nut Back arrow truc tiep tren UI)
+- Toi uu buoc Warm-up vuot ngang Stories thay vi vuot doc tranh vo tinh kich hoat Memories
