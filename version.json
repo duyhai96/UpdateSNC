@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.9",
-    "versionCode":  38,
+    "version":  "1.7.0",
+    "versionCode":  39,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.6.9 - Tu dong gan thiet bi vao dung ExpressVPN Group sau khi Change Device va doi 7s on dinh",
-    "releaseNotes":  "- Tu dong goi API /v2/settings de gan dia chi MAC thiet bi vao dung ExpressVPN Group (Tunnel) sau khi Change Device\n- May 1 mac dinh o Group 0 (Home), may 2..5 tu dong vao dung Group tuong ung\n- Cho 7 giay on dinh mang sau khi vao Group moi roi check IP va tiep tuc luong dang ky\n- Bo sung chuc nang chuot phai gan thiet bi vao ExpressVPN Group thu cong tren ca Form Dang ky va Form Login 2FA",
+    "title":  "Ban cap nhat v1.7.0 - Bo sung nut va menu test gan tat ca dien thoai vao ExpressVPN Group theo MAC",
+    "releaseNotes":  "- Bo sung nut Gan TAT CA dien thoai vao Group (Test) tren giao dien ExpressVPN Router Form 1\n- Bo sung chuc nang chuot phai tren danh sach thiet bi va tren tung dien thoai: Gan TAT CA may vao ExpressVPN Group (Test)\n- Tu dong doc MAC tat ca may, gan vao dung Group (Group 0..4) va hien thi bang tong ket trang thai chi tiet",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
