@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.5",
-    "versionCode":  54,
+    "version":  "1.8.6",
+    "versionCode":  55,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.8.5 - Khac phuc triet de loi font tieng Viet tren giao dien va Toggle View",
-    "releaseNotes":  "- Khac phuc 100% loi font tieng Viet tren toan bo giao dien Form1\n- Giu nguyen va toi uu hoa che do Toggle View giua Bang co dien va Card Thong Tin\n- Dong bo du lieu Card va Bang theo thoi gian thuc",
+    "title":  "Ban cap nhat v1.8.6 - Khac phuc triet de loi treo ung dung (Not Responding) va dong bo View sieu toc",
+    "releaseNotes":  "- Khac phuc triet de loi treo ung dung (Not Responding) do Watchdog va Scrcpy Reconnect chay tren UI thread\n- Chuyen Watchdog kiem tra ket noi sang Background Thread khong chan giao dien WinForms\n- Su dung ConcurrentDictionary O(1) thay cho viec duyet toan bo cay Controls cua flowScreens\n- Loai bo spam ToolTip.SetToolTip tren luong UI tranh gay ngheo Windows API message queue\n- Chuyen UpdateGridButton sang BeginInvoke bat dong bo tranh deadlock cross-thread",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
