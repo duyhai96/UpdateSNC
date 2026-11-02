@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.6",
-    "versionCode":  45,
+    "version":  "1.7.7",
+    "versionCode":  46,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.6 - Xu ly man hinh Follow a Snap Star \u0026 thoat Public Profile nguoi khac vao Settings",
-    "releaseNotes":  "- Xu ly man hinh Search / \u0027Follow a Snap Star\u0027 sau buoc Add Friends: tu dong bam Cancel de ve ngay Camera chinh\n- Khac phuc triet de loi lac vao Public Profile nguoi khac (nhu Kamila): tu dong bam Back thoat ve Camera/Search\n- Chinh xac hoa dieu kien nhan dien Profile ca nhan, khong nhan nham Public Profile cua nguoi khac giup vao thang Settings bat 2FA va Verify Email tron tru",
+    "title":  "Ban cap nhat v1.7.7 - Fix triet de nut mo Profile goc trai \u0026 tranh lac vao Follow a Snap Star",
+    "releaseNotes":  "- Loai bo hoan toan FindAndClick(\u0027neon_header\u0027) gay bam nham vao giua thanh tim kiem Search Discover\n- Tinh chinh toa do mo Avatar goc tren cuc trai (dispW * 0.055, dispH * 0.055) trung 100% vao nut hinh nguoi Profile, tranh lech sang kinh lup Search\n- Tinh gon Warm-up Camera autofocus nhe nhang tai cho, loai bo vuot ngang Stories de tranh dung sai tab Discover",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
