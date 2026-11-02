@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.2",
-    "versionCode":  51,
+    "version":  "1.8.3",
+    "versionCode":  52,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.8.2 - Dinh danh may 100% theo Device ID ADB, tat ca chu menu chuot phai mau den",
-    "releaseNotes":  "- Dinh danh va quan ly may hoan toan theo Device ID ADB (khong phu thuoc vao dia chi MAC thay doi sau moi lan Change may)\n- Toan bo menu chuot phai vao thiet bi deu de chu mau den chuan\n- Bo cot MAC khoi giao dien mapping Tunnel, tap trung 100% vao Device ID",
+    "title":  "Ban cap nhat v1.8.3 - Tu dong bam dong popup Upload a Profile Photo (nut X / Not Now)",
+    "releaseNotes":  "- Tu dong nhan dien va bam nut X (Close) hoac \u0027Not Now\u0027 tren popup \u0027Upload a Profile Photo\u0027 khi vua vao Profile de truy cap vao Settings muot ma khong bi chan\n- Ho tro ca dang ky moi va 2FA login",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
