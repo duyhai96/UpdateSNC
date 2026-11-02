@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.7",
-    "versionCode":  46,
+    "version":  "1.7.8",
+    "versionCode":  47,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.7 - Fix triet de nut mo Profile goc trai \u0026 tranh lac vao Follow a Snap Star",
-    "releaseNotes":  "- Loai bo hoan toan FindAndClick(\u0027neon_header\u0027) gay bam nham vao giua thanh tim kiem Search Discover\n- Tinh chinh toa do mo Avatar goc tren cuc trai (dispW * 0.055, dispH * 0.055) trung 100% vao nut hinh nguoi Profile, tranh lech sang kinh lup Search\n- Tinh gon Warm-up Camera autofocus nhe nhang tai cho, loai bo vuot ngang Stories de tranh dung sai tab Discover",
+    "title":  "Ban cap nhat v1.7.8 - Khac phuc triet de loi dung o Settings \u0026 nhan dien Settings Root ngay lap tuc",
+    "releaseNotes":  "- Nhan dien man hinh Settings Root ngay lap tuc o buoc dau tien, tra ve thanh cong ngay de thuc hien Verify Email va 2FA\n- Sua dieu kien man hinh con Email (khong nhan nham muc Email + SAVE trong Settings Root thanh subpage de tranh bam nham nut Back thoat ra ngoai)\n- Toi uu IsAppInForeground kiem tra nhanh 20ms qua grep tren thiet bi tranh lam dung luong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
