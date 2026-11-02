@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.3",
-    "versionCode":  42,
+    "version":  "1.7.4",
+    "versionCode":  43,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.3 - Fix loi lech Card ExpressVPN Router, Focus Password \u0026 Doc Mail OTP 2FA",
-    "releaseNotes":  "- Tu dong map chinh xac Group Card tren Router Dashboard voi Tunnel ID thuc te cua Router Firmware (Card 1 va Card 2 khong con bi hoan doi)\n- Khac phuc triet de loi doc mail Graph API (bo sung scope Mail.Read giup lay ma OTP dang nhap tuc thi)\n- Toi uu click focus o Password va ho tro TAB chuyen o tren man hinh Login Snapchat\n- Dong bo thread-safe lay danh sach thiet bi theo dung thu tu hang tren bang",
+    "title":  "Ban cap nhat v1.7.4 - Sap xep may theo Alpha (0..4) trung Tunnel (0..4) \u0026 Real-time VPN Log",
+    "releaseNotes":  "- Sap xep thiet bi nghiem ngat theo thu tu Alpha: May 0 -\u003e Tunnel 0 (Home), May 1 -\u003e Tunnel 1, May 2 -\u003e Tunnel 2, May 3 -\u003e Tunnel 3, May 4 -\u003e Tunnel 4\n- Map truc tiep 1-1 giua Group ID (0..4) voi ExpressVPN Router Tunnel (0..4)\n- Cung cap Real-time VPN Log tren o trang thai ExpressVPN: Tu dong cap nhat vi tri moi cua tat ca 5 Group ngay khi co may hoac router doi IP",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
