@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.3",
-    "versionCode":  52,
+    "version":  "1.8.4",
+    "versionCode":  53,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.8.3 - Tu dong bam dong popup Upload a Profile Photo (nut X / Not Now)",
-    "releaseNotes":  "- Tu dong nhan dien va bam nut X (Close) hoac \u0027Not Now\u0027 tren popup \u0027Upload a Profile Photo\u0027 khi vua vao Profile de truy cap vao Settings muot ma khong bi chan\n- Ho tro ca dang ky moi va 2FA login",
+    "title":  "Ban cap nhat v1.8.4 - Che do chuyen doi Toggle View (Card Thong Tin \u0026 Bang Co Dien)",
+    "releaseNotes":  "- Bo sung che do Toggle View giua \u0027Bang + Man hinh\u0027 truyen thong va \u0027Card Thong Tin\u0027 hien dai\n- O che do Card Thong Tin: An bang tren de giai phong 100% chieu cao, mo rong panel ben phai moi view de hien thi day du Mail, Pass, User, Name, IP, Status va nut Chay/Dung\n- Tu dong dong bo du lieu theo thoi gian thuc va luu che do vao config",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
