@@ -2,11 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.8.0
+- **Phien ban:** v1.8.1
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.8.0 - Fix triet de swipe down bi nham tu Memories va uu tien mo Avatar tren Camera
+- **Tieu de:** Ban cap nhat v1.8.1 - Tuy bien & ghi nho mapping Device sang Group Tunnel VPN Router tren giao dien, tu dong gan lai sau doi IP
 
 ### Noi dung cap nhat:
-- Khac phuc triet de loi Camera bi nhan nham thanh Memories (do nut Memories o day camera) dan toi lenh swipe down tu dong keo xuong mo Search
-- Dua buoc click truc tiep Avatar Profile len ngay sau Settings/Subpage, lap tuc mo Profile ngay khi o Camera
-- Khac phuc triet de loi keo xuong Search o ca buoc Warm-Up truoc khi vao Settings
+- Them tab 'Gan May -> Tunnel' trong cai dat ExpressVPN giup tuy bien va ghi nho mapping Device ID sang Group/Tunnel (0..4) tren giao dien
+- Tu dong luu va nap lai mapping Device sang Tunnel moi lan mo tool
+- Cho phep dat Group Tunnel truc tiep bang chuot phai tren danh sach thiet bi cua ca Auto Reg va Login 2FA
+- Sau khi chay xong luot va doi IP Group, tu dong gui API gan lai may do vao dung Group Tunnel da luu tren Router
