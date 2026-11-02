@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.7.0
+- **Phien ban:** v1.7.1
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.7.0 - Bo sung nut va menu test gan tat ca dien thoai vao ExpressVPN Group theo MAC
+- **Tieu de:** Ban cap nhat v1.7.1 - Dong bo quoc gia tung ExpressVPN Group voi MiChanger va Router
 
 ### Noi dung cap nhat:
-- Bo sung nut Gan TAT CA dien thoai vao Group (Test) tren giao dien ExpressVPN Router Form 1
-- Bo sung chuc nang chuot phai tren danh sach thiet bi va tren tung dien thoai: Gan TAT CA may vao ExpressVPN Group (Test)
-- Tu dong doc MAC tat ca may, gan vao dung Group (Group 0..4) va hien thi bang tong ket trang thai chi tiet
+- Khac phuc triet de lech quoc gia giua may va VPN tunnel: Luu tru quoc gia va vi tri VPN rieng biet cho tung Tunnel (Group 0..4)
+- Tu dong map dung quoc gia cua Group tren Router vao MiChanger cho tung may (May 2 thuoc Group 1 luon nhan dung profile FR, khong bi lay nham SG cua Group 2)
+- Hien thi ro rang ten nuoc va vi tri cua Group trong menu Check IP Router / MAC va Gan tat ca may vao Group
