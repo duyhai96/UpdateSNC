@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.4",
-    "versionCode":  53,
+    "version":  "1.8.5",
+    "versionCode":  54,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.8.4 - Che do chuyen doi Toggle View (Card Thong Tin \u0026 Bang Co Dien)",
-    "releaseNotes":  "- Bo sung che do Toggle View giua \u0027Bang + Man hinh\u0027 truyen thong va \u0027Card Thong Tin\u0027 hien dai\n- O che do Card Thong Tin: An bang tren de giai phong 100% chieu cao, mo rong panel ben phai moi view de hien thi day du Mail, Pass, User, Name, IP, Status va nut Chay/Dung\n- Tu dong dong bo du lieu theo thoi gian thuc va luu che do vao config",
+    "title":  "Ban cap nhat v1.8.5 - Khac phuc triet de loi font tieng Viet tren giao dien va Toggle View",
+    "releaseNotes":  "- Khac phuc 100% loi font tieng Viet tren toan bo giao dien Form1\n- Giu nguyen va toi uu hoa che do Toggle View giua Bang co dien va Card Thong Tin\n- Dong bo du lieu Card va Bang theo thoi gian thuc",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
