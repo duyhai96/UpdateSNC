@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.7.8
+- **Phien ban:** v1.7.9
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.7.8 - Khac phuc triet de loi dung o Settings & nhan dien Settings Root ngay lap tuc
+- **Tieu de:** Ban cap nhat v1.7.9 - Khac phuc dut diem click Avatar vao Profile & thoat man hinh Search
 
 ### Noi dung cap nhat:
-- Nhan dien man hinh Settings Root ngay lap tuc o buoc dau tien, tra ve thanh cong ngay de thuc hien Verify Email va 2FA
-- Sua dieu kien man hinh con Email (khong nhan nham muc Email + SAVE trong Settings Root thanh subpage de tranh bam nham nut Back thoat ra ngoai)
-- Toi uu IsAppInForeground kiem tra nhanh 20ms qua grep tren thiet bi tranh lam dung luong
+- Xu ly dut diem loi cham nhe Avatar tren Camera bi nhan dien nham thanh cu chi vuot xuong mo Search (Follow a Snap Star): chuyen sang click tap dut diem khong co do tre swipe
+- Nhan dien va tu dong thoat ngay man hinh Search / 'Follow a Snap Star' khi vo tinh mo ra
+- Dong bo click Settings gear va thoat popup Upload Profile Photo an toan
