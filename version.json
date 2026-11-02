@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.1",
-    "versionCode":  50,
+    "version":  "1.8.2",
+    "versionCode":  51,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.8.1 - Tuy bien \u0026 ghi nho mapping Device sang Group Tunnel VPN Router tren giao dien, tu dong gan lai sau doi IP",
-    "releaseNotes":  "- Them tab \u0027Gan May -\u003e Tunnel\u0027 trong cai dat ExpressVPN giup tuy bien va ghi nho mapping Device ID sang Group/Tunnel (0..4) tren giao dien\n- Tu dong luu va nap lai mapping Device sang Tunnel moi lan mo tool\n- Cho phep dat Group Tunnel truc tiep bang chuot phai tren danh sach thiet bi cua ca Auto Reg va Login 2FA\n- Sau khi chay xong luot va doi IP Group, tu dong gui API gan lai may do vao dung Group Tunnel da luu tren Router",
+    "title":  "Ban cap nhat v1.8.2 - Dinh danh may 100% theo Device ID ADB, tat ca chu menu chuot phai mau den",
+    "releaseNotes":  "- Dinh danh va quan ly may hoan toan theo Device ID ADB (khong phu thuoc vao dia chi MAC thay doi sau moi lan Change may)\n- Toan bo menu chuot phai vao thiet bi deu de chu mau den chuan\n- Bo cot MAC khoi giao dien mapping Tunnel, tap trung 100% vao Device ID",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
