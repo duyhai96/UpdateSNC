@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.9",
-    "versionCode":  48,
+    "version":  "1.8.0",
+    "versionCode":  49,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.9 - Khac phuc dut diem click Avatar vao Profile \u0026 thoat man hinh Search",
-    "releaseNotes":  "- Xu ly dut diem loi cham nhe Avatar tren Camera bi nhan dien nham thanh cu chi vuot xuong mo Search (Follow a Snap Star): chuyen sang click tap dut diem khong co do tre swipe\n- Nhan dien va tu dong thoat ngay man hinh Search / \u0027Follow a Snap Star\u0027 khi vo tinh mo ra\n- Dong bo click Settings gear va thoat popup Upload Profile Photo an toan",
+    "title":  "Ban cap nhat v1.8.0 - Fix triet de swipe down bi nham tu Memories va uu tien mo Avatar tren Camera",
+    "releaseNotes":  "- Khac phuc triet de loi Camera bi nhan nham thanh Memories (do nut Memories o day camera) dan toi lenh swipe down tu dong keo xuong mo Search\n- Dua buoc click truc tiep Avatar Profile len ngay sau Settings/Subpage, lap tuc mo Profile ngay khi o Camera\n- Khac phuc triet de loi keo xuong Search o ca buoc Warm-Up truoc khi vao Settings",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
