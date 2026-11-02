@@ -2,12 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.7.5
+- **Phien ban:** v1.7.6
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.7.5 - Fix loi thoat vang app ra Launcher khi vao Settings & toi uu dieu huong Settings Root
+- **Tieu de:** Ban cap nhat v1.7.6 - Xu ly man hinh Follow a Snap Star & thoat Public Profile nguoi khac vao Settings
 
 ### Noi dung cap nhat:
-- Nhan dien chinh xac package com.snapchat.android, tu dong khoi chay lai ngay lap tuc neu Snapchat bi an hoac vang ra Launcher
-- Loai bo hoan toan lenh KeyEvent(4) bam Back qua da khi o man hinh chinh/camera, tranh thoat app ra man hinh dien thoai
-- Bo sung xu ly man hinh Memories (vuot xuong ve Camera nhe nhang) va man hinh Email (bam nut Back arrow truc tiep tren UI)
-- Toi uu buoc Warm-up vuot ngang Stories thay vi vuot doc tranh vo tinh kich hoat Memories
+- Xu ly man hinh Search / 'Follow a Snap Star' sau buoc Add Friends: tu dong bam Cancel de ve ngay Camera chinh
+- Khac phuc triet de loi lac vao Public Profile nguoi khac (nhu Kamila): tu dong bam Back thoat ve Camera/Search
+- Chinh xac hoa dieu kien nhan dien Profile ca nhan, khong nhan nham Public Profile cua nguoi khac giup vao thang Settings bat 2FA va Verify Email tron tru

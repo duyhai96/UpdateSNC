@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.5",
-    "versionCode":  44,
+    "version":  "1.7.6",
+    "versionCode":  45,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.5 - Fix loi thoat vang app ra Launcher khi vao Settings \u0026 toi uu dieu huong Settings Root",
-    "releaseNotes":  "- Nhan dien chinh xac package com.snapchat.android, tu dong khoi chay lai ngay lap tuc neu Snapchat bi an hoac vang ra Launcher\n- Loai bo hoan toan lenh KeyEvent(4) bam Back qua da khi o man hinh chinh/camera, tranh thoat app ra man hinh dien thoai\n- Bo sung xu ly man hinh Memories (vuot xuong ve Camera nhe nhang) va man hinh Email (bam nut Back arrow truc tiep tren UI)\n- Toi uu buoc Warm-up vuot ngang Stories thay vi vuot doc tranh vo tinh kich hoat Memories",
+    "title":  "Ban cap nhat v1.7.6 - Xu ly man hinh Follow a Snap Star \u0026 thoat Public Profile nguoi khac vao Settings",
+    "releaseNotes":  "- Xu ly man hinh Search / \u0027Follow a Snap Star\u0027 sau buoc Add Friends: tu dong bam Cancel de ve ngay Camera chinh\n- Khac phuc triet de loi lac vao Public Profile nguoi khac (nhu Kamila): tu dong bam Back thoat ve Camera/Search\n- Chinh xac hoa dieu kien nhan dien Profile ca nhan, khong nhan nham Public Profile cua nguoi khac giup vao thang Settings bat 2FA va Verify Email tron tru",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
