@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.2",
-    "versionCode":  41,
+    "version":  "1.7.3",
+    "versionCode":  42,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.2 - Chuan hoa toan bo luong Change IP -\u003e Change Device -\u003e Gan MAC Router Group (May 1..5 vao Tunnel 0..4)",
-    "releaseNotes":  "- Chuan hoa luong tu dong: Doi IP Tunnel xong -\u003e Check IP lay nuoc -\u003e Change may (MiChanger) theo IP\n- Khi may change xong bat WiFi -\u003e Doc MAC va gan vao dung Group (May 1: Tunnel 0, May 2: Tunnel 1, May 3: Tunnel 2, May 4: Tunnel 3, May 5: Tunnel 4)\n- Doi 7s on dinh -\u003e Check lai Public IP va tiep tuc luong\n- Ap dung dong bo ca tren Form 1 Reg va Form Login 2FA",
+    "title":  "Ban cap nhat v1.7.3 - Fix loi lech Card ExpressVPN Router, Focus Password \u0026 Doc Mail OTP 2FA",
+    "releaseNotes":  "- Tu dong map chinh xac Group Card tren Router Dashboard voi Tunnel ID thuc te cua Router Firmware (Card 1 va Card 2 khong con bi hoan doi)\n- Khac phuc triet de loi doc mail Graph API (bo sung scope Mail.Read giup lay ma OTP dang nhap tuc thi)\n- Toi uu click focus o Password va ho tro TAB chuyen o tren man hinh Login Snapchat\n- Dong bo thread-safe lay danh sach thiet bi theo dung thu tu hang tren bang",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

@@ -2,12 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.7.2
+- **Phien ban:** v1.7.3
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.7.2 - Chuan hoa toan bo luong Change IP -> Change Device -> Gan MAC Router Group (May 1..5 vao Tunnel 0..4)
+- **Tieu de:** Ban cap nhat v1.7.3 - Fix loi lech Card ExpressVPN Router, Focus Password & Doc Mail OTP 2FA
 
 ### Noi dung cap nhat:
-- Chuan hoa luong tu dong: Doi IP Tunnel xong -> Check IP lay nuoc -> Change may (MiChanger) theo IP
-- Khi may change xong bat WiFi -> Doc MAC va gan vao dung Group (May 1: Tunnel 0, May 2: Tunnel 1, May 3: Tunnel 2, May 4: Tunnel 3, May 5: Tunnel 4)
-- Doi 7s on dinh -> Check lai Public IP va tiep tuc luong
-- Ap dung dong bo ca tren Form 1 Reg va Form Login 2FA
+- Tu dong map chinh xac Group Card tren Router Dashboard voi Tunnel ID thuc te cua Router Firmware (Card 1 va Card 2 khong con bi hoan doi)
+- Khac phuc triet de loi doc mail Graph API (bo sung scope Mail.Read giup lay ma OTP dang nhap tuc thi)
+- Toi uu click focus o Password va ho tro TAB chuyen o tren man hinh Login Snapchat
+- Dong bo thread-safe lay danh sach thiet bi theo dung thu tu hang tren bang
