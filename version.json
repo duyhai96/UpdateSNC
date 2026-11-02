@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.1",
-    "versionCode":  40,
+    "version":  "1.7.2",
+    "versionCode":  41,
     "releaseDate":  "2026-11-02",
-    "title":  "Ban cap nhat v1.7.1 - Dong bo quoc gia tung ExpressVPN Group voi MiChanger va Router",
-    "releaseNotes":  "- Khac phuc triet de lech quoc gia giua may va VPN tunnel: Luu tru quoc gia va vi tri VPN rieng biet cho tung Tunnel (Group 0..4)\n- Tu dong map dung quoc gia cua Group tren Router vao MiChanger cho tung may (May 2 thuoc Group 1 luon nhan dung profile FR, khong bi lay nham SG cua Group 2)\n- Hien thi ro rang ten nuoc va vi tri cua Group trong menu Check IP Router / MAC va Gan tat ca may vao Group",
+    "title":  "Ban cap nhat v1.7.2 - Chuan hoa toan bo luong Change IP -\u003e Change Device -\u003e Gan MAC Router Group (May 1..5 vao Tunnel 0..4)",
+    "releaseNotes":  "- Chuan hoa luong tu dong: Doi IP Tunnel xong -\u003e Check IP lay nuoc -\u003e Change may (MiChanger) theo IP\n- Khi may change xong bat WiFi -\u003e Doc MAC va gan vao dung Group (May 1: Tunnel 0, May 2: Tunnel 1, May 3: Tunnel 2, May 4: Tunnel 3, May 5: Tunnel 4)\n- Doi 7s on dinh -\u003e Check lai Public IP va tiep tuc luong\n- Ap dung dong bo ca tren Form 1 Reg va Form Login 2FA",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

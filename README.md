@@ -2,11 +2,12 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.7.1
+- **Phien ban:** v1.7.2
 - **Ngay phat hanh:** 2026-11-02
-- **Tieu de:** Ban cap nhat v1.7.1 - Dong bo quoc gia tung ExpressVPN Group voi MiChanger va Router
+- **Tieu de:** Ban cap nhat v1.7.2 - Chuan hoa toan bo luong Change IP -> Change Device -> Gan MAC Router Group (May 1..5 vao Tunnel 0..4)
 
 ### Noi dung cap nhat:
-- Khac phuc triet de lech quoc gia giua may va VPN tunnel: Luu tru quoc gia va vi tri VPN rieng biet cho tung Tunnel (Group 0..4)
-- Tu dong map dung quoc gia cua Group tren Router vao MiChanger cho tung may (May 2 thuoc Group 1 luon nhan dung profile FR, khong bi lay nham SG cua Group 2)
-- Hien thi ro rang ten nuoc va vi tri cua Group trong menu Check IP Router / MAC va Gan tat ca may vao Group
+- Chuan hoa luong tu dong: Doi IP Tunnel xong -> Check IP lay nuoc -> Change may (MiChanger) theo IP
+- Khi may change xong bat WiFi -> Doc MAC va gan vao dung Group (May 1: Tunnel 0, May 2: Tunnel 1, May 3: Tunnel 2, May 4: Tunnel 3, May 5: Tunnel 4)
+- Doi 7s on dinh -> Check lai Public IP va tiep tuc luong
+- Ap dung dong bo ca tren Form 1 Reg va Form Login 2FA
