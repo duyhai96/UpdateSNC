@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.2",
-    "versionCode":  61,
+    "version":  "1.9.3",
+    "versionCode":  62,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.2 - Toi uu che do Doi click tay (cham xung quanh thoai mai truoc khi bam Continue)",
-    "releaseNotes":  "- Bo hoan toan getevent o che do Doi click tay de ban co the cham xung quanh man hinh nhieu lan thoai mai tao cam ung tu nhien\n- Tool chi chuyen trang khi man hinh thuc su chuyen sang buoc tiep theo sau khi ban bam nut Continue\n- Tang thoi gian cho len 120s de ban thoai mai thao tac khong bi voi\n- Tuyet doi khong click ADB de len nut Continue",
+    "title":  "Ban cap nhat v1.9.3 - Toi uu toc do hien thi View Scrcpy sieu toc nhu XiaoWai",
+    "releaseNotes":  "- Triet tieu toan bo cac lenh KeyEvent 4 (phim Back vat ly) con sot trong Form1 (dong chat My AI, popup Bitmoji, thoat Password va 2FA), thay the bang thao tac click nut Back UI hoac vuot swipe native\n- Bo sung co che tu dong phat hien va khoi phuc Snapchat (Auto-recover) lien tuc moi 5s trong suot qua trinh cho doc email (VerifyEmailFlow), dam bao Snapchat khong bi an/roi ve launcher\n- Thay the keyevent 111 bang SafeHideKeyboard de khong bao gio bi hieu nham thanh lenh Back khi ban phim da dong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
