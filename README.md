@@ -2,10 +2,10 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.9.7
+- **Phien ban:** v1.9.8
 - **Ngay phat hanh:** 2026-11-03
-- **Tieu de:** Ban cap nhat v1.9.7 - Fix doc Hotmail lay link verify Snapchat qua OAuth
+- **Tieu de:** Ban cap nhat v1.9.8 - Tu dong day tat ca tai khoan da reg len Google Sheet & Tinh nang day bu acc
 
 ### Noi dung cap nhat:
-- Ho tro tu dong doc moi loai Refresh Token Hotmail/Outlook khong bi loi AADSTS70000
-- Doc chinh xac link xac thuc Snapchat qua ca Microsoft Graph API va Outlook REST API
+- Bat cu acc nao tao thanh cong tren Snapchat deu duoc day len Google Sheet ngay
+- Bam 'Xem' o muc Loi verify mail de day bu toan bo acc cu len Google Sheet

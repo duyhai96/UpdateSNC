@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.7",
-    "versionCode":  66,
+    "version":  "1.9.8",
+    "versionCode":  67,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.7 - Fix doc Hotmail lay link verify Snapchat qua OAuth",
-    "releaseNotes":  "- Ho tro tu dong doc moi loai Refresh Token Hotmail/Outlook khong bi loi AADSTS70000\n- Doc chinh xac link xac thuc Snapchat qua ca Microsoft Graph API va Outlook REST API",
+    "title":  "Ban cap nhat v1.9.8 - Tu dong day tat ca tai khoan da reg len Google Sheet \u0026 Tinh nang day bu acc",
+    "releaseNotes":  "- Bat cu acc nao tao thanh cong tren Snapchat deu duoc day len Google Sheet ngay\n- Bam \u0027Xem\u0027 o muc Loi verify mail de day bu toan bo acc cu len Google Sheet",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
