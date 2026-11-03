@@ -2,11 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.8.9
+- **Phien ban:** v1.9.0
 - **Ngay phat hanh:** 2026-11-03
-- **Tieu de:** Ban cap nhat v1.8.9 - Khac phuc triet de loi thoat/vang Snapchat sau dang ky & on dinh go phim
+- **Tieu de:** Ban cap nhat v1.9.0 - Triet tieu toan bo lenh Back (KeyEvent 4) gay vang app & Auto-recover trong luc doi mail
 
 ### Noi dung cap nhat:
-- Khac phuc triet de loi tat/vang Snapchat ra Home screen (xoa bo lenh pm grant tren app dang chay, loai bo keyevent 4 phan phim Back khi dong popup My AI & Bitmoji, tu dong phat hien va khoi phuc Snapchat neu bi an)
-- Xu ly chuan xac hop thoai Upload a Profile Photo (dong bang nut X hoac Not Now truoc khi vao Settings)
-- On dinh go phim PC vao Phone 100% (chuyen scrcpy sang --keyboard=sdk ho tro day du ky tu Unicode ma khong gay configChanges)
+- Triet tieu toan bo cac lenh KeyEvent 4 (phim Back vat ly) con sot trong Form1 (dong chat My AI, popup Bitmoji, thoat Password va 2FA), thay the bang thao tac click nut Back UI hoac vuot swipe native
+- Bo sung co che tu dong phat hien va khoi phuc Snapchat (Auto-recover) lien tuc moi 5s trong suot qua trinh cho doc email (VerifyEmailFlow), dam bao Snapchat khong bi an/roi ve launcher
+- Thay the keyevent 111 bang SafeHideKeyboard de khong bao gio bi hieu nham thanh lenh Back khi ban phim da dong

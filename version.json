@@ -1,8 +1,8 @@
 {
-    "version":  "1.8.9",
-    "versionCode":  58,
+    "version":  "1.9.0",
+    "versionCode":  59,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.8.9 - Khac phuc triet de loi thoat/vang Snapchat sau dang ky \u0026 on dinh go phim",
-    "releaseNotes":  "- Khac phuc triet de loi tat/vang Snapchat ra Home screen (xoa bo lenh pm grant tren app dang chay, loai bo keyevent 4 phan phim Back khi dong popup My AI \u0026 Bitmoji, tu dong phat hien va khoi phuc Snapchat neu bi an)\n- Xu ly chuan xac hop thoai Upload a Profile Photo (dong bang nut X hoac Not Now truoc khi vao Settings)\n- On dinh go phim PC vao Phone 100% (chuyen scrcpy sang --keyboard=sdk ho tro day du ky tu Unicode ma khong gay configChanges)",
+    "title":  "Ban cap nhat v1.9.0 - Triet tieu toan bo lenh Back (KeyEvent 4) gay vang app \u0026 Auto-recover trong luc doi mail",
+    "releaseNotes":  "- Triet tieu toan bo cac lenh KeyEvent 4 (phim Back vat ly) con sot trong Form1 (dong chat My AI, popup Bitmoji, thoat Password va 2FA), thay the bang thao tac click nut Back UI hoac vuot swipe native\n- Bo sung co che tu dong phat hien va khoi phuc Snapchat (Auto-recover) lien tuc moi 5s trong suot qua trinh cho doc email (VerifyEmailFlow), dam bao Snapchat khong bi an/roi ve launcher\n- Thay the keyevent 111 bang SafeHideKeyboard de khong bao gio bi hieu nham thanh lenh Back khi ban phim da dong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
