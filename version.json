@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.6",
-    "versionCode":  65,
+    "version":  "1.9.7",
+    "versionCode":  66,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.6 - Khoi dong truc tiep Form Dang Ky \u0026 Toi uu View sieu toc",
-    "releaseNotes":  "- Khoi dong truc tiep Form Dang Ky bo qua FormMenu\n- Sua triet de loi ket (Doi may boot...)\n- Toi uu mo View Scrcpy song song sieu toc",
+    "title":  "Ban cap nhat v1.9.7 - Fix doc Hotmail lay link verify Snapchat qua OAuth",
+    "releaseNotes":  "- Ho tro tu dong doc moi loai Refresh Token Hotmail/Outlook khong bi loi AADSTS70000\n- Doc chinh xac link xac thuc Snapchat qua ca Microsoft Graph API va Outlook REST API",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
