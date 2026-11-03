@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.0",
-    "versionCode":  69,
+    "version":  "2.0.1",
+    "versionCode":  70,
     "releaseDate":  "2026-11-03",
     "title":  "Ban cap nhat v1.9.0 - Triet tieu toan bo lenh Back (KeyEvent 4) gay vang app \u0026 Auto-recover trong luc doi mail",
-    "releaseNotes":  "Fix lech hien thi va chen man hinh o che do Card View",
+    "releaseNotes":  "Fix header span toan bo chieu ngang card va sua triet de loi man hinh dien thoai bi cat nua trong Scrcpy 1.24",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
