@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.9",
-    "versionCode":  68,
+    "version":  "2.0.0",
+    "versionCode":  69,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.9 - Tich hop Scrcpy 1.24 MiChanger \u0026 Tu dong lam lai 2FA khi vang app",
-    "releaseNotes":  "- Fix loi view man hinh: Thiet lap WS_CHILD va bo sung screenPanel.BringToFront de man hinh dien thoai khong bi che mat\n- Tich hop bo Scrcpy 1.24 sieu nhe tu MiChanger (ket noi tuc thi trong 100ms, khong giat lag)\n- Tu dong phat hien vang app hoac bi man hinh Chrome de len khi bat 2FA: tu dong dong trinh duyet, khoi dong lai Snapchat va bat 2FA lai tu dau",
+    "title":  "Ban cap nhat v1.9.0 - Triet tieu toan bo lenh Back (KeyEvent 4) gay vang app \u0026 Auto-recover trong luc doi mail",
+    "releaseNotes":  "Fix lech hien thi va chen man hinh o che do Card View",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
