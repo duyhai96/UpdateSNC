@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.0",
-    "versionCode":  59,
+    "version":  "1.9.1",
+    "versionCode":  60,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.0 - Triet tieu toan bo lenh Back (KeyEvent 4) gay vang app \u0026 Auto-recover trong luc doi mail",
-    "releaseNotes":  "- Triet tieu toan bo cac lenh KeyEvent 4 (phim Back vat ly) con sot trong Form1 (dong chat My AI, popup Bitmoji, thoat Password va 2FA), thay the bang thao tac click nut Back UI hoac vuot swipe native\n- Bo sung co che tu dong phat hien va khoi phuc Snapchat (Auto-recover) lien tuc moi 5s trong suot qua trinh cho doc email (VerifyEmailFlow), dam bao Snapchat khong bi an/roi ve launcher\n- Thay the keyevent 111 bang SafeHideKeyboard de khong bao gio bi hieu nham thanh lenh Back khi ban phim da dong",
+    "title":  "Ban cap nhat v1.9.1 - Sua go password 100%, sua nut Card View 1 cham va hoan thien che do Doi click tay",
+    "releaseNotes":  "- Fix go Password: dung co che Human Cadence qua Input Text chinh xac 100% khong bao gio bi lech ky tu do ban phim ao\n- Fix nut bam Card View: loai bo viec bi Scrcpy cuop focus, bam 1 cham an ngay lap tuc va doi ten nut Dung ngay ro rang\n- Fix che do Doi click tay: tu dong an ban phim, cho nguoi dung bam Continue va nhan dien chuyen trang thong minh tranh loi SS03 hoac timeout change may\n- Them menu chuot phai Xuat Crash Log Snapchat de chan doan su co nhanh chong",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
