@@ -1,8 +1,8 @@
 {
-    "version":  "1.9.1",
-    "versionCode":  60,
+    "version":  "1.9.2",
+    "versionCode":  61,
     "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.1 - Sua go password 100%, sua nut Card View 1 cham va hoan thien che do Doi click tay",
-    "releaseNotes":  "- Fix go Password: dung co che Human Cadence qua Input Text chinh xac 100% khong bao gio bi lech ky tu do ban phim ao\n- Fix nut bam Card View: loai bo viec bi Scrcpy cuop focus, bam 1 cham an ngay lap tuc va doi ten nut Dung ngay ro rang\n- Fix che do Doi click tay: tu dong an ban phim, cho nguoi dung bam Continue va nhan dien chuyen trang thong minh tranh loi SS03 hoac timeout change may\n- Them menu chuot phai Xuat Crash Log Snapchat de chan doan su co nhanh chong",
+    "title":  "Ban cap nhat v1.9.2 - Toi uu che do Doi click tay (cham xung quanh thoai mai truoc khi bam Continue)",
+    "releaseNotes":  "- Bo hoan toan getevent o che do Doi click tay de ban co the cham xung quanh man hinh nhieu lan thoai mai tao cam ung tu nhien\n- Tool chi chuyen trang khi man hinh thuc su chuyen sang buoc tiep theo sau khi ban bam nut Continue\n- Tang thoi gian cho len 120s de ban thoai mai thao tac khong bi voi\n- Tuyet doi khong click ADB de len nut Continue",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
