@@ -1,8 +1,8 @@
 {
-  "version": "1.8.8",
-  "versionCode": 57,
-  "releaseDate": "2026-11-03",
-  "title": "Ban cap nhat v1.8.8 - Khac phuc triet de vang Snapchat khi dang ky & On dinh go phim PC vao Phone",
-  "releaseNotes": "- Khac phuc triet de loi vang/dong ung dung Snapchat khi dang ky (ngan chan AutoHeal & dismiss-keyguard can thiep khi dang reg, loai bo am monkey khoi dong Snapchat, an ban phim an toan tranh an nham Back)\n- Toi uu go phim tu ban phim may tinh (PC Keyboard) vao man hinh dien thoai on dinh 100% (chuyen che do scrcpy sang --keyboard=uhid mo phong phan cung USB HID, dieu huong focus Windows & forward key message chinh xac)\n- Dong bo focus khi click vao man hinh, header hoac bang thong tin card view",
-  "downloadUrl": "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
+    "version":  "1.8.9",
+    "versionCode":  58,
+    "releaseDate":  "2026-11-03",
+    "title":  "Ban cap nhat v1.8.9 - Khac phuc triet de loi thoat/vang Snapchat sau dang ky \u0026 on dinh go phim",
+    "releaseNotes":  "- Khac phuc triet de loi tat/vang Snapchat ra Home screen (xoa bo lenh pm grant tren app dang chay, loai bo keyevent 4 phan phim Back khi dong popup My AI \u0026 Bitmoji, tu dong phat hien va khoi phuc Snapchat neu bi an)\n- Xu ly chuan xac hop thoai Upload a Profile Photo (dong bang nut X hoac Not Now truoc khi vao Settings)\n- On dinh go phim PC vao Phone 100% (chuyen scrcpy sang --keyboard=sdk ho tro day du ky tu Unicode ma khong gay configChanges)",
+    "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

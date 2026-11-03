@@ -1,12 +1,12 @@
-# UpdateSNC - Snapchat Auto Reg Online Update Repository
+﻿# UpdateSNC - Snapchat Auto Reg Online Update Repository
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v1.8.8
+- **Phien ban:** v1.8.9
 - **Ngay phat hanh:** 2026-11-03
-- **Tieu de:** Ban cap nhat v1.8.8 - Khac phuc triet de vang Snapchat khi dang ky & On dinh go phim PC vao Phone
+- **Tieu de:** Ban cap nhat v1.8.9 - Khac phuc triet de loi thoat/vang Snapchat sau dang ky & on dinh go phim
 
 ### Noi dung cap nhat:
-- Khac phuc triet de loi vang/dong ung dung Snapchat khi dang ky (ngan chan AutoHeal & dismiss-keyguard can thiep khi dang reg, loai bo am monkey khoi dong Snapchat, an ban phim an toan tranh an nham Back)
-- Toi uu go phim tu ban phim may tinh (PC Keyboard) vao man hinh dien thoai on dinh 100% (chuyen che do scrcpy sang --keyboard=uhid mo phong phan cung USB HID, dieu huong focus Windows & forward key message chinh xac)
-- Dong bo focus khi click vao man hinh, header hoac bang thong tin card view
+- Khac phuc triet de loi tat/vang Snapchat ra Home screen (xoa bo lenh pm grant tren app dang chay, loai bo keyevent 4 phan phim Back khi dong popup My AI & Bitmoji, tu dong phat hien va khoi phuc Snapchat neu bi an)
+- Xu ly chuan xac hop thoai Upload a Profile Photo (dong bang nut X hoac Not Now truoc khi vao Settings)
+- On dinh go phim PC vao Phone 100% (chuyen scrcpy sang --keyboard=sdk ho tro day du ky tu Unicode ma khong gay configChanges)
