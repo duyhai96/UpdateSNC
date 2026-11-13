@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.3",
-    "versionCode":  72,
+    "version":  "2.0.4",
+    "versionCode":  73,
     "releaseDate":  "2026-11-13",
-    "title":  "Ban cap nhat v2.0.3 - Gia lap Spotlight nguoi dung \u0026 Hoan thien 2FA Google Authenticator",
-    "releaseNotes":  "- Tu dong bam nut Okay tren popup Come Back Soon!, tuong tac Google Authenticator (Get started -\u003e Use without an account -\u003e Yes) va lay ma OTP 2FA\n- Nang cap kich ban gia lap nguoi dung (luot Spotlight, tim, comment 1 lan, duyet menu theo thoi gian cai dat, dong va mo lai app)\n- Tich hop tuy chon thu tu gia lap Truoc 2FA/Mail hoac Sau 2FA/Mail\n- Fix hien thi font trang thai tieng Viet",
+    "title":  "Ban cap nhat v2.0.4 - Toi uu hoa giao dien Cau hinh he thong (grpConfig) ngan nap, khong de nut",
+    "releaseNotes":  "- Toi uu toan dien bo cuc 13 hang cua hop Cau hinh he thong (grpConfig)\n- Tach rieng cac dong Bao mat/VPN va Gia lap/Theo IP tranh chong cheo checkbox va dropdown\n- Di doi cum Model va Xuat ket qua (Luu file/Google Sheet) xuong hang 10 rieng biet, khong bi de len nhau\n- Tinh toan chinh xac kich thuoc, giu khoang cach thoang mat va de nhin cho tat ca cac lua chon",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
