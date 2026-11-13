@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.2",
-    "versionCode":  71,
-    "releaseDate":  "2026-11-03",
-    "title":  "Ban cap nhat v1.9.0 - Triet tieu toan bo lenh Back (KeyEvent 4) gay vang app \u0026 Auto-recover trong luc doi mail",
-    "releaseNotes":  "Tu dong tat scrcpy va adb tranh khoa file khi cap nhat may khac \u0026 Tu dong chep scrcpy vao cac thu muc tuong ung",
+    "version":  "2.0.3",
+    "versionCode":  72,
+    "releaseDate":  "2026-11-13",
+    "title":  "Ban cap nhat v2.0.3 - Gia lap Spotlight nguoi dung \u0026 Hoan thien 2FA Google Authenticator",
+    "releaseNotes":  "- Tu dong bam nut Okay tren popup Come Back Soon!, tuong tac Google Authenticator (Get started -\u003e Use without an account -\u003e Yes) va lay ma OTP 2FA\n- Nang cap kich ban gia lap nguoi dung (luot Spotlight, tim, comment 1 lan, duyet menu theo thoi gian cai dat, dong va mo lai app)\n- Tich hop tuy chon thu tu gia lap Truoc 2FA/Mail hoac Sau 2FA/Mail\n- Fix hien thi font trang thai tieng Viet",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
