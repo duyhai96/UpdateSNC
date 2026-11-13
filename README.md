@@ -2,12 +2,11 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v2.0.5
+- **Phien ban:** v2.0.6
 - **Ngay phat hanh:** 2026-11-13
-- **Tieu de:** Ban cap nhat v2.0.5 - Gian cach rong rai Cau hinh he thong (grpConfig), keo cao 525px & thu gon o mail
+- **Tieu de:** Ban cap nhat v2.0.6 - Khac phuc triet de loi de nut tai runtime cua cac nut Xem va link Google Sheet
 
 ### Noi dung cap nhat:
-- Tang chieu cao grpConfig len 525px va thu gon o mail phia duoi theo yeu cau
-- Gian deu 14 hang ro rang, khoang cach thoang mat (Y_step ~36px)
-- Tach rieng dong ExpressVPN Router khoi Check IP/Bat 2FA, khong con de nut Cai dat VPN
-- Toi uu dong Model, Luu file, Google Sheet va cac hang Thong ke Xem ket qua ro rang, khong lech hang
+- Sua triet de loi ham UpdateCounts() bi dinh toa do cu keo cac nut Xem, Tong luong, Loi verify mail len de vao Username, Model va Add Friend
+- Chuyen toa do khoi tao lblGoogleSheetLink xuong hang 11 canh Model va Luu file, khong con bi nhay len che Click mode
+- Dong bo chinh xac 100% toa do runtime voi Form Designer, dam bao giao dien grpConfig hoan hao khong bao gio bi de nut
