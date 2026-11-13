@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.7",
-    "versionCode":  76,
+    "version":  "2.0.8",
+    "versionCode":  77,
     "releaseDate":  "2026-11-13",
-    "title":  "Ban cap nhat v2.0.7 - Tu dong luu va khoi phuc cai dat Gia lap (Thu tu Truoc/Sau 2FA va Thoi gian giay)",
-    "releaseNotes":  "- Tich hop luu va doc cai dat cmbSimulationOrder (Truoc 2FA/Mail, Sau 2FA/Mail, Ngau nhien) va numSimulationDuration vao config.json\n- Tu dong luu ngay khi nguoi dung thay doi tuy chon tren giao dien, khong con bi mat khi tat bat lai tool",
+    "title":  "Ban cap nhat v2.0.8 - Gia lap nguoi dung chuan XML (khong dung toa do co dinh) \u0026 dung quy trinh Truoc/Sau 2FA",
+    "releaseNotes":  "- Tim va click tab Spotlight, Stories, Chat, Map, Explore bang dump XML (text/content-desc), tuong thich 100% moi dong may (S9, A1, man hinh dai 18.5:9 hay 20:9), khong con bi an nham Up Store hay Lens Carousel\n- Thuc hien dung quy trinh: Truoc 2FA/Mail thi den man Camera chay gia lap luon -\u003e het gio kill app -\u003e cho vai giay mo lai roi moi vao Settings (2FA/Mail)\n- Neu dat Sau 2FA/Mail thi kill app Snapchat truoc -\u003e mo lai app vao man Camera -\u003e chay gia lap roi ket thuc\n- Tinh nang tha tim bang Double-tap giua man hinh Spotlight tu nhien va chuan xac",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }
