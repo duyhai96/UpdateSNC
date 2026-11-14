@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.9",
-    "versionCode":  78,
+    "version":  "2.1.0",
+    "versionCode":  79,
     "releaseDate":  "2026-11-14",
-    "title":  "Ban cap nhat v2.0.9 - Ket ban qua Chat Search, bo Map, quay lai Spotlight treo xem video du 60s roi moi kill app",
-    "releaseNotes":  "- Bo hoan toan click vao Map trong quy trinh gia lap\n- Bo sung tinh nang Ket ban: Vao tab Chat -\u003e bam tim kiem (Search) -\u003e bam + Add ket ban ngau nhien -\u003e bam Cancel quay lai\n- Quay lai Spotlight va treo xem video du thoi gian cai dat (vi du 60s) voi dong ho dem nguoc truc tiep tren giao dien, luot video va tha tim tu nhien\n- Sau khi het du thoi gian cai dat moi kill app Snapchat va tiep tuc cac buoc tiep theo",
+    "title":  "Ban cap nhat v2.1.0 - Them FormRegChrome (Dang ky qua Chrome Web) \u0026 Menu trung tam 3 phan he",
+    "releaseNotes":  "- Bo sung FormRegChrome dang ky Snapchat qua trinh duyet Google Chrome tren dien thoai (accounts.snapchat.com/v2/signup)\n- Tu dong dien First name \u0026 Last name theo cau hinh Name tren giao dien\n- Birthday: Click mo menu chon thang random, dien ngay (1-28), dien nam random 1989-2004\n- Username: Sinh theo che do Username nu hoac username mac dinh\n- Password: Tao mat khau ngau nhien manh va tu dong bam Agree and Continue\n- Nang cap Menu trung tam FormMenu voi 3 phan he doc lap (Reg App, Reg Chrome, Login App) kem menu chuyen nhanh tren thanh tieu de",
     "downloadUrl":  "https://raw.githubusercontent.com/duyhai96/UpdateSNC/main/update.zip"
 }

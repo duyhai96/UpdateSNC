@@ -2,12 +2,14 @@
 
 Kho luu tru ban cap nhat truc tuyen cho cong cu Snapchat Auto Reg ADB.
 
-- **Phien ban:** v2.0.9
+- **Phien ban:** v2.1.0
 - **Ngay phat hanh:** 2026-11-14
-- **Tieu de:** Ban cap nhat v2.0.9 - Ket ban qua Chat Search, bo Map, quay lai Spotlight treo xem video du 60s roi moi kill app
+- **Tieu de:** Ban cap nhat v2.1.0 - Them FormRegChrome (Dang ky qua Chrome Web) & Menu trung tam 3 phan he
 
 ### Noi dung cap nhat:
-- Bo hoan toan click vao Map trong quy trinh gia lap
-- Bo sung tinh nang Ket ban: Vao tab Chat -> bam tim kiem (Search) -> bam + Add ket ban ngau nhien -> bam Cancel quay lai
-- Quay lai Spotlight va treo xem video du thoi gian cai dat (vi du 60s) voi dong ho dem nguoc truc tiep tren giao dien, luot video va tha tim tu nhien
-- Sau khi het du thoi gian cai dat moi kill app Snapchat va tiep tuc cac buoc tiep theo
+- Bo sung FormRegChrome dang ky Snapchat qua trinh duyet Google Chrome tren dien thoai (accounts.snapchat.com/v2/signup)
+- Tu dong dien First name & Last name theo cau hinh Name tren giao dien
+- Birthday: Click mo menu chon thang random, dien ngay (1-28), dien nam random 1989-2004
+- Username: Sinh theo che do Username nu hoac username mac dinh
+- Password: Tao mat khau ngau nhien manh va tu dong bam Agree and Continue
+- Nang cap Menu trung tam FormMenu voi 3 phan he doc lap (Reg App, Reg Chrome, Login App) kem menu chuyen nhanh tren thanh tieu de
